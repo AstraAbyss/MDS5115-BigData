@@ -1,0 +1,44 @@
+[
+  {
+    "topic": 1,
+    "low": ["room", "hotel", "good", "pos", "neg", "servic", "morn", "poor", "locat", "staff", "bed", "park"],
+    "avg": ["room", "good", "hotel", "pos", "neg", "locat", "staff", "bed", "park", "breakfast", "build", "great"],
+    "high": ["good", "room", "realli", "hotel", "neg", "pos", "locat", "staff", "bar", "bed", "park", "breakfast"]
+  },
+  {
+    "topic": 2,
+    "low": ["room", "hotel", "pos", "neg", "shower", "bathroom", "star", "place", "locat", "staff", "bed", "park"],
+    "avg": ["room", "hotel", "neg", "pos", "locat", "staff", "bed", "park", "breakfast", "good", "build", "great"],
+    "high": ["great", "room", "hotel", "neg", "pos", "good", "fantast", "locat", "staff", "near", "awesom", "bed"]
+  },
+  {
+    "topic": 3,
+    "low": ["room", "hotel", "neg", "pos", "dirti", "look", "locat", "staff", "floor", "bed", "park", "breakfast"],
+    "avg": ["room", "hotel", "neg", "pos", "locat", "staff", "bed", "park", "breakfast", "good", "build", "great"],
+    "high": ["room", "hotel", "neg", "pos", "locat", "staff", "bed", "park", "good", "breakfast", "build", "great"]
+  },
+  {
+    "topic": 4,
+    "low": ["room", "hotel", "pos", "neg", "staff", "book", "park", "bed", "breakfast", "work", "can", "check"],
+    "avg": ["room", "hotel", "pos", "neg", "locat", "staff", "bed", "park", "breakfast", "build", "great", "nice"],
+    "high": ["room", "neg", "pos", "hotel", "locat", "centr", "help", "restaur", "great", "look", "staff", "build"]
+  },
+  {
+    "topic": 5,
+    "low": ["room", "hotel", "pos", "neg", "locat", "staff", "bed", "park", "good", "breakfast", "one", "manag"],
+    "avg": ["room", "hotel", "neg", "pos", "locat", "staff", "bed", "park", "breakfast", "good", "build", "great"],
+    "high": ["room", "neg", "pos", "hotel", "build", "direct", "great", "restaur", "locat", "staff", "help", "bed"]
+  },
+  {
+    "topic": 6,
+    "low": ["room", "hotel", "neg", "pos", "get", "locat", "staff", "bed", "park", "look", "good", "breakfast"],
+    "avg": ["room", "get", "hotel", "neg", "pos", "locat", "staff", "bed", "park", "breakfast", "good", "build"],
+    "high": ["room", "get", "hotel", "neg", "pos", "locat", "staff", "bed", "park", "can", "breakfast", "good"]
+  },
+  {
+    "topic": 7,
+    "low": ["room", "experi", "hotel", "neg", "pos", "locat", "staff", "bed", "park", "good", "breakfast", "build"],
+    "avg": ["room", "hotel", "neg", "pos", "locat", "staff", "bed", "park", "good", "breakfast", "build", "great"],
+    "high": ["room", "hotel", "neg", "pos", "locat", "staff", "bed", "park", "good", "breakfast", "build", "great"]
+  }
+]

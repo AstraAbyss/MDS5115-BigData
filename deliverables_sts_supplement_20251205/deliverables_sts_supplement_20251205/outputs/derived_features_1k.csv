@@ -1,0 +1,1001 @@
+doc_id,Review_Date,Reviewer_Score,Tags,Total_Number_of_Reviews_Reviewer_Has_Given,TripType_Leisure,Comp_Group,Comp_Solo,Comp_Family,Submit_Mobile,month_idx,Season_Spring,Season_Summer,Season_Autumn,reviewer_activity_z
+1,2016-01-07,10.0,"[' Leisure trip ', ' Group ', ' Junior Suite ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,1,0,0,0,-0.566389062982209
+2,2016-01-03,8.3,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+3,2016-01-14,6.3,"[' Leisure trip ', ' Couple ', ' Comfort Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,1,0,0,0,-0.26028796607235005
+4,2017-01-29,5.8,"[' Leisure trip ', ' Solo traveler ', ' Classic Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,1,0,0,0,-0.566389062982209
+5,2016-01-03,9.2,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,1,0,0,0,-0.464355364012256
+6,2017-01-14,10.0,"[' Leisure trip ', ' Group ', ' Superior Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",10,1,1,0,0,1,1,0,0,0,0.3519142277473678
+7,2016-01-26,8.3,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+8,2017-01-19,6.3,"[' Leisure trip ', ' Family with young children ', ' Standard Double Twin Room ', ' Stayed 3 nights ']",1,1,0,0,1,0,1,0,0,0,-0.566389062982209
+9,2016-01-05,10.0,"[' Couple ', ' Superior Shard King ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,0,0,0,0,1,1,0,0,0,-0.464355364012256
+10,2017-01-19,6.3,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 2 nights ']",12,1,0,0,0,0,1,0,0,0,0.5559816256872738
+11,2016-01-22,9.6,"[' Business trip ', ' Solo traveler ', ' Classic Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,0,0,1,0,1,1,0,0,0,-0.464355364012256
+12,2017-01-06,7.9,"[' Leisure trip ', ' Family with young children ', ' Double or Twin Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,1,0,0,0,-0.566389062982209
+13,2016-01-14,9.6,"[' Business trip ', ' Solo traveler ', ' King Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",2,0,0,1,0,1,1,0,0,0,-0.464355364012256
+14,2016-01-24,8.8,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+15,2017-01-04,9.2,"[' Business trip ', ' Solo traveler ', ' Single Room ', ' Stayed 1 night ']",10,0,0,1,0,0,1,0,0,0,0.3519142277473678
+16,2017-01-17,10.0,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",7,1,0,0,0,1,1,0,0,0,0.045813130837508875
+17,2017-01-31,10.0,"[' Leisure trip ', ' Family with young children ', ' 2 rooms ', ' Stayed 2 nights ']",9,1,0,0,1,0,1,0,0,0,0.24988052877741485
+18,2016-01-19,10.0,"[' Leisure trip ', ' Group ', ' Standard Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",3,1,1,0,0,1,1,0,0,0,-0.36232166504230306
+19,2016-01-25,7.9,"[' Leisure trip ', ' Group ', ' Standard Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",27,1,1,0,0,1,1,0,0,0,2.0864871102365683
+20,2016-01-27,10.0,"[' With a pet ', ' Business trip ', ' Family with young children ', ' Double or Twin Room 1 2 Adults ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,0,0,0,1,1,1,0,0,0,-0.566389062982209
+21,2017-01-05,5.4,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,1,0,0,0,-0.566389062982209
+22,2017-01-07,8.8,"[' Leisure trip ', ' Solo traveler ', ' Superior Single Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",21,1,0,1,0,1,1,0,0,0,1.4742849164168506
+23,2017-01-10,10.0,"[' Leisure trip ', ' Solo traveler ', ' Room Selected at Check In ', ' Stayed 1 night ']",1,1,0,1,0,0,1,0,0,0,-0.566389062982209
+24,2016-01-08,6.3,"[' Leisure trip ', ' Couple ', ' Classic Room ', ' Stayed 3 nights ']",2,1,0,0,0,0,1,0,0,0,-0.464355364012256
+25,2017-01-16,8.8,"[' Leisure trip ', ' Family with young children ', ' City King or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,1,1,1,0,0,0,-0.464355364012256
+26,2017-01-02,8.3,"[' Leisure trip ', ' Family with young children ', ' Standard Double or Twin Room ', ' Stayed 2 nights ']",37,1,0,0,1,0,1,0,0,0,3.106824099936098
+27,2016-01-26,9.6,"[' Business trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",10,0,0,0,0,1,1,0,0,0,0.3519142277473678
+28,2017-01-20,7.5,"[' Leisure trip ', ' Solo traveler ', ' Classic Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",6,1,0,1,0,1,1,0,0,0,-0.05622056813244411
+29,2017-01-27,8.3,"[' Business trip ', ' Family with young children ', ' Deluxe Junior Suite ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,0,0,0,1,1,1,0,0,0,-0.566389062982209
+30,2017-01-10,10.0,"[' Leisure trip ', ' Couple ', ' Queen Hilton Guest Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",6,1,0,0,0,1,1,0,0,0,-0.05622056813244411
+31,2017-01-01,6.3,"[' Leisure trip ', ' Couple ', ' Double Suite ', ' Stayed 1 night ']",6,1,0,0,0,0,1,0,0,0,-0.05622056813244411
+32,2017-01-09,7.5,"[' Leisure trip ', ' Family with young children ', ' Standard Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,1,0,0,0,-0.566389062982209
+33,2016-01-11,7.9,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ']",23,1,0,0,0,0,1,0,0,0,1.6783523143567565
+34,2016-01-10,5.0,"[' Leisure trip ', ' Couple ', ' Double Room with Street View ', ' Stayed 1 night ', ' Submitted from a mobile device ']",16,1,0,0,0,1,1,0,0,0,0.9641164215670857
+35,2016-01-04,9.2,"[' Leisure trip ', ' Couple ', ' Standard ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,1,0,0,0,-0.464355364012256
+36,2016-01-12,9.6,"[' Leisure trip ', ' Couple ', ' Queen Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,1,0,0,0,-0.566389062982209
+37,2017-01-30,6.7,"[' Leisure trip ', ' Couple ', ' Small Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",7,1,0,0,0,1,1,0,0,0,0.045813130837508875
+38,2016-01-20,8.3,"[' Leisure trip ', ' Group ', ' Standard Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,1,0,0,0,-0.566389062982209
+39,2016-01-07,5.8,"[' Leisure trip ', ' Couple ', ' Large Twin Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,1,0,0,0,-0.566389062982209
+40,2016-01-02,8.3,"[' Leisure trip ', ' Couple ']",14,1,0,0,0,0,1,0,0,0,0.7600490236271797
+41,2017-01-29,7.1,"[' Leisure trip ', ' Solo traveler ', ' Superior Designer ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",21,1,0,1,0,1,1,0,0,0,1.4742849164168506
+42,2017-01-04,9.2,"[' Leisure trip ', ' Solo traveler ', ' Classic Double Room with Courtyard View ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",19,1,0,1,0,1,1,0,0,0,1.2702175184769446
+43,2016-01-26,10.0,"[' Leisure trip ', ' Couple ', ' Small Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",12,1,0,0,0,1,1,0,0,0,0.5559816256872738
+44,2016-01-04,8.3,"[' Leisure trip ', ' Group ', ' Double Room ', ' Stayed 3 nights ']",1,1,1,0,0,0,1,0,0,0,-0.566389062982209
+45,2017-01-29,6.3,"[' Business trip ', ' Solo traveler ', ' Standard Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,1,0,0,0,-0.566389062982209
+46,2016-01-27,8.3,"[' Leisure trip ', ' Couple ', ' Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,1,0,0,0,-0.464355364012256
+47,2016-01-20,7.9,"[' Leisure trip ', ' Couple ', ' Standard Room with Spa access ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+48,2017-01-26,9.6,"[' Leisure trip ', ' Travelers with friends ', ' Large Canal View King ', ' Stayed 1 night ', ' Submitted from a mobile device ']",5,1,0,0,0,1,1,0,0,0,-0.1582542671023971
+49,2017-01-31,10.0,"[' Leisure trip ', ' Family with young children ', ' Double Room with Two Double Beds ', ' Stayed 1 night ']",15,1,0,0,1,0,1,0,0,0,0.8620827225971327
+50,2016-01-10,7.5,"[' Leisure trip ', ' Couple ', ' Superior Twin Room ', ' Stayed 2 nights ']",4,1,0,0,0,0,1,0,0,0,-0.26028796607235005
+51,2017-01-24,7.5,"[' Group ', ' Standard Room with Queen Bed ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,0,1,0,0,1,1,0,0,0,-0.566389062982209
+52,2017-01-20,8.3,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+53,2017-01-24,6.3,"[' Leisure trip ', ' Solo traveler ', ' Standard Single Room ', ' Stayed 2 nights ']",10,1,0,1,0,0,1,0,0,0,0.3519142277473678
+54,2016-01-03,3.8,"[' Business trip ', ' Solo traveler ', ' Compact Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",7,0,0,1,0,1,1,0,0,0,0.045813130837508875
+55,2016-01-26,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 2 nights ']",2,1,0,0,0,0,1,0,0,0,-0.464355364012256
+56,2017-01-20,9.6,"[' Leisure trip ', ' Couple ', ' Suite ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,1,0,0,0,-0.464355364012256
+57,2016-01-28,8.3,"[' Leisure trip ', ' Family with older children ', ' Triple Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,1,0,0,0,-0.26028796607235005
+58,2017-01-24,10.0,"[' Leisure trip ', ' Family with young children ', ' Family Room ', ' Stayed 1 night ']",2,1,0,0,1,0,1,0,0,0,-0.464355364012256
+59,2016-01-03,3.8,"[' Leisure trip ', ' Family with older children ', ' Studio Triple ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,1,0,0,0,-0.36232166504230306
+60,2017-01-09,7.5,"[' Business trip ', ' Solo traveler ', ' Classic Double or Twin Room ', ' Stayed 1 night ']",10,0,0,1,0,0,1,0,0,0,0.3519142277473678
+61,2016-01-17,8.8,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",79,1,0,0,0,1,1,0,0,0,7.392239456674123
+62,2017-01-07,9.6,"[' Leisure trip ', ' Family with young children ', ' Deluxe Double or Twin Room 2 adults 1 child ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,1,0,0,0,-0.566389062982209
+63,2017-01-02,10.0,"[' Leisure trip ', ' Couple ', ' Classic King Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,1,0,0,0,-0.36232166504230306
+64,2017-01-06,6.7,"[' Leisure trip ', ' Family with young children ', ' King Plaza Executive Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",22,1,0,0,1,1,1,0,0,0,1.5763186153868036
+65,2017-01-13,9.6,"[' Leisure trip ', ' Couple ', ' Superior Room ', ' Stayed 1 night ']",8,1,0,0,0,0,1,0,0,0,0.14784682980746186
+66,2016-01-31,8.8,"[' Leisure trip ', ' Family with older children ', ' Deluxe Double Room with Two Double Beds ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+67,2017-01-23,7.1,"[' Leisure trip ', ' Family with young children ', ' Superior Room ', ' Stayed 1 night ']",12,1,0,0,1,0,1,0,0,0,0.5559816256872738
+68,2017-01-30,9.6,"[' Leisure trip ', ' Family with young children ', ' Double or Twin Room with View ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",9,1,0,0,1,1,1,0,0,0,0.24988052877741485
+69,2017-01-16,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,1,0,0,0,-0.36232166504230306
+70,2017-01-07,7.5,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",12,1,0,0,0,1,1,0,0,0,0.5559816256872738
+71,2017-01-23,10.0,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+72,2017-01-05,8.8,"[' Leisure trip ', ' Group ', ' Double Room ', ' Stayed 2 nights ']",2,1,1,0,0,0,1,0,0,0,-0.464355364012256
+73,2016-01-03,9.6,"[' Leisure trip ', ' Couple ', ' Superior Double Room with Internal View ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+74,2016-01-26,10.0,"[' Leisure trip ', ' Family with older children ', ' Deluxe King or Twin Room ', ' Stayed 1 night ']",17,1,0,0,0,0,1,0,0,0,1.0661501205370387
+75,2017-01-30,10.0,"[' Leisure trip ', ' Couple ', ' Deluxe King Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+76,2017-01-10,10.0,"[' Leisure trip ', ' Couple ', ' Deluxe Room with City View ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+77,2017-01-09,9.6,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 14 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,1,0,0,0,-0.566389062982209
+78,2016-01-10,10.0,"[' Leisure trip ', ' Family with young children ', ' Executive Family Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",13,1,0,0,1,1,1,0,0,0,0.6580153246572268
+79,2016-01-16,6.7,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ']",11,1,0,0,0,0,1,0,0,0,0.4539479267173208
+80,2016-01-17,9.6,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,1,0,0,0,-0.464355364012256
+81,2017-01-05,8.8,"[' Leisure trip ', ' Couple ', ' Premier Double Room ', ' Stayed 1 night ']",1,1,0,0,0,0,1,0,0,0,-0.566389062982209
+82,2017-01-10,9.6,"[' Leisure trip ', ' Couple ', ' Superior King Room Barlow Wing ', ' Stayed 2 nights ']",5,1,0,0,0,0,1,0,0,0,-0.1582542671023971
+83,2017-02-28,9.6,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,2,0,0,0,-0.566389062982209
+84,2016-02-01,5.8,"[' Business trip ', ' Solo traveler ', ' Single Room ', ' Stayed 2 nights ']",15,0,0,1,0,0,2,0,0,0,0.8620827225971327
+85,2017-02-08,8.3,"[' Leisure trip ', ' Couple ', ' Standard Room ', ' Stayed 1 night ']",6,1,0,0,0,0,2,0,0,0,-0.05622056813244411
+86,2017-02-23,10.0,"[' Business trip ', ' Solo traveler ', ' Basic Single Room ', ' Stayed 1 night ']",1,0,0,1,0,0,2,0,0,0,-0.566389062982209
+87,2016-02-10,9.2,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 3 nights ']",4,1,0,0,0,0,2,0,0,0,-0.26028796607235005
+88,2016-02-24,9.6,"[' Leisure trip ', ' Family with older children ', ' 2 rooms ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,2,0,0,0,-0.566389062982209
+89,2017-02-27,7.9,"[' Business trip ', ' Solo traveler ', ' Standard Room with 1 Double Bed ', ' Stayed 1 night ']",4,0,0,1,0,0,2,0,0,0,-0.26028796607235005
+90,2017-02-22,6.7,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,2,0,0,0,-0.566389062982209
+91,2017-02-13,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe King Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,2,0,0,0,-0.464355364012256
+92,2017-02-24,7.5,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,2,0,0,0,-0.464355364012256
+93,2016-02-16,4.2,"[' Leisure trip ', ' Couple ', ' Deluxe Queen Guestroom ', ' Stayed 1 night ']",1,1,0,0,0,0,2,0,0,0,-0.566389062982209
+94,2017-02-27,3.8,"[' Leisure trip ', ' Solo traveler ', ' Double Room ', ' Stayed 3 nights ']",8,1,0,1,0,0,2,0,0,0,0.14784682980746186
+95,2017-02-20,8.3,"[' Leisure trip ', ' Solo traveler ', ' Double Room ', ' Stayed 4 nights ']",18,1,0,1,0,0,2,0,0,0,1.1681838195069916
+96,2016-02-27,9.6,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 3 nights ']",7,1,0,0,0,0,2,0,0,0,0.045813130837508875
+97,2016-02-28,8.3,"[' Leisure trip ', ' Couple ', ' Standard Double Room with Bridge View ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,2,0,0,0,-0.464355364012256
+98,2016-02-24,7.5,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,2,0,0,0,-0.566389062982209
+99,2016-02-18,10.0,"[' Leisure trip ', ' Couple ', ' Small Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",10,1,0,0,0,1,2,0,0,0,0.3519142277473678
+100,2017-02-05,8.8,"[' Leisure trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 2 nights ']",5,1,0,1,0,0,2,0,0,0,-0.1582542671023971
+101,2017-02-05,9.2,"[' Leisure trip ', ' Solo traveler ', ' Studio Double Room ', ' Stayed 8 nights ', ' Submitted from a mobile device ']",3,1,0,1,0,1,2,0,0,0,-0.36232166504230306
+102,2016-02-02,10.0,"[' Leisure trip ', ' Couple ', ' Comfort Room ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,2,0,0,0,-0.566389062982209
+103,2016-02-29,10.0,"[' Leisure trip ', ' Couple ', ' Double Room with Courtyard View ', ' Stayed 3 nights ']",3,1,0,0,0,0,2,0,0,0,-0.36232166504230306
+104,2016-02-21,9.2,"[' Business trip ', ' Family with older children ', ' Superior Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",8,0,0,0,0,1,2,0,0,0,0.14784682980746186
+105,2016-02-09,8.8,"[' Business trip ', ' Solo traveler ', ' Executive Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,2,0,0,0,-0.566389062982209
+106,2017-02-06,10.0,"[' Leisure trip ', ' Solo traveler ', ' Superior Double or Twin Room ', ' Stayed 1 night ']",1,1,0,1,0,0,2,0,0,0,-0.566389062982209
+107,2017-02-15,7.1,"[' Leisure trip ', ' Couple ', ' Double or Twin Room 1 2 Adults ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,2,0,0,0,-0.1582542671023971
+108,2016-02-25,10.0,"[' Business trip ', ' Group ', ' Superior Double Room ', ' Stayed 1 night ']",6,0,1,0,0,0,2,0,0,0,-0.05622056813244411
+109,2017-02-07,8.3,"[' Business trip ', ' Solo traveler ', ' Double Room 1 2 Adults ', ' Stayed 5 nights ']",5,0,0,1,0,0,2,0,0,0,-0.1582542671023971
+110,2017-02-24,7.5,"[' Business trip ', ' Group ', ' Single Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,0,1,0,0,1,2,0,0,0,-0.26028796607235005
+111,2016-02-01,9.6,"[' Leisure trip ', ' Couple ', ' Double Room Non Smoking ', ' Stayed 2 nights ']",2,1,0,0,0,0,2,0,0,0,-0.464355364012256
+112,2017-02-06,7.5,"[' Leisure trip ', ' Solo traveler ', ' Double Hilton Guestroom ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,1,0,1,2,0,0,0,-0.464355364012256
+113,2017-02-17,7.9,"[' Leisure trip ', ' Family with young children ', ' Standard Family Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,2,0,0,0,-0.566389062982209
+114,2017-02-20,10.0,"[' Leisure trip ', ' Group ', ' 2 rooms ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,1,0,0,1,2,0,0,0,-0.464355364012256
+115,2017-02-01,7.1,"[' Leisure trip ', ' Couple ', ' Club Twin Room ', ' Stayed 5 nights ']",5,1,0,0,0,0,2,0,0,0,-0.1582542671023971
+116,2016-02-23,10.0,"[' Leisure trip ', ' Solo traveler ', ' Superior Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",13,1,0,1,0,1,2,0,0,0,0.6580153246572268
+117,2017-02-22,9.6,"[' Business trip ', ' Solo traveler ', ' Superior Queen Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",11,0,0,1,0,1,2,0,0,0,0.4539479267173208
+118,2017-02-18,8.8,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,2,0,0,0,-0.566389062982209
+119,2017-02-08,9.6,"[' Leisure trip ', ' Solo traveler ', ' Basic Double Room ', ' Stayed 4 nights ']",1,1,0,1,0,0,2,0,0,0,-0.566389062982209
+120,2017-02-07,10.0,"[' Leisure trip ', ' Solo traveler ', ' Deluxe Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,1,0,1,2,0,0,0,-0.566389062982209
+121,2016-02-23,9.2,"[' Leisure trip ', ' Couple ', ' Standard Triple Room ', ' Stayed 1 night ']",2,1,0,0,0,0,2,0,0,0,-0.464355364012256
+122,2016-02-02,8.8,"[' Leisure trip ', ' Couple ', ' City King or Twin Room ', ' Stayed 2 nights ']",2,1,0,0,0,0,2,0,0,0,-0.464355364012256
+123,2016-02-25,7.1,"[' Business trip ', ' Solo traveler ', ' Deluxe Double Room ', ' Stayed 1 night ']",18,0,0,1,0,0,2,0,0,0,1.1681838195069916
+124,2016-02-21,6.3,"[' Business trip ', ' Solo traveler ', ' Superior Single Room ', ' Stayed 1 night ']",68,0,0,1,0,0,2,0,0,0,6.269868768004641
+125,2017-02-28,9.2,"[' Business trip ', ' Couple ', ' Queen Room ', ' Stayed 3 nights ']",3,0,0,0,0,0,2,0,0,0,-0.36232166504230306
+126,2017-02-06,5.4,"[' Leisure trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,2,0,0,0,-0.566389062982209
+127,2016-02-14,8.8,"[' Business trip ', ' Solo traveler ', ' Standard Room with 1 Single Bed ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,0,0,1,0,1,2,0,0,0,-0.464355364012256
+128,2017-02-20,8.3,"[' Leisure trip ', ' Family with young children ', ' Discovery Double Room ', ' Stayed 2 nights ']",1,1,0,0,1,0,2,0,0,0,-0.566389062982209
+129,2017-02-01,7.5,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room Annex ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,2,0,0,0,-0.1582542671023971
+130,2017-02-21,9.2,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,2,0,0,0,-0.566389062982209
+131,2016-02-02,7.5,"[' Leisure trip ', ' Couple ', ' Treat your Partner Package Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,0,0,0,1,2,0,0,0,-0.26028796607235005
+132,2017-02-06,8.8,"[' Leisure trip ', ' Solo traveler ', ' Classic Room with Queen Bed ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,2,0,0,0,-0.566389062982209
+133,2017-02-24,10.0,"[' Leisure trip ', ' Group ', ' Triple Room ', ' Stayed 6 nights ']",1,1,1,0,0,0,2,0,0,0,-0.566389062982209
+134,2017-02-04,5.8,"[' Business trip ', ' Solo traveler ', ' Double Room Free Wi Fi ', ' Stayed 4 nights ']",1,0,0,1,0,0,2,0,0,0,-0.566389062982209
+135,2017-02-26,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,2,0,0,0,-0.26028796607235005
+136,2016-02-18,10.0,"[' Leisure trip ', ' Group ', ' Double or Twin Room 1 2 Adults ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",5,1,1,0,0,1,2,0,0,0,-0.1582542671023971
+137,2016-02-09,9.2,"[' Leisure trip ', ' Family with older children ', ' Standard Family Room ', ' Stayed 1 night ']",22,1,0,0,0,0,2,0,0,0,1.5763186153868036
+138,2016-02-09,7.9,"[' Leisure trip ', ' Couple ', ' Standard Queen Room ', ' Stayed 1 night ']",2,1,0,0,0,0,2,0,0,0,-0.464355364012256
+139,2016-02-05,9.2,"[' Leisure trip ', ' Couple ', ' King Room Non Smoking ', ' Stayed 1 night ', ' Submitted from a mobile device ']",5,1,0,0,0,1,2,0,0,0,-0.1582542671023971
+140,2016-02-03,7.9,"[' Business trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 4 nights ']",2,0,0,1,0,0,2,0,0,0,-0.464355364012256
+141,2016-02-18,7.1,"[' Leisure trip ', ' Family with older children ', ' Executive Family Room ', ' Stayed 1 night ']",12,1,0,0,0,0,2,0,0,0,0.5559816256872738
+142,2016-02-18,7.9,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,2,0,0,0,-0.566389062982209
+143,2017-02-09,9.6,"[' Leisure trip ', ' Solo traveler ', ' Club Room ', ' Stayed 2 nights ']",3,1,0,1,0,0,2,0,0,0,-0.36232166504230306
+144,2017-02-10,9.6,"[' Business trip ', ' Solo traveler ', ' Superior Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,2,0,0,0,-0.566389062982209
+145,2016-02-17,9.6,"[' Family with older children ', ' Twin Room ', ' Stayed 5 nights ']",1,0,0,0,0,0,2,0,0,0,-0.566389062982209
+146,2017-02-12,8.8,"[' Leisure trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 2 nights ']",6,1,0,1,0,0,2,0,0,0,-0.05622056813244411
+147,2016-02-10,9.2,"[' Leisure trip ', ' Couple ', ' Basic Double Room ', ' Stayed 3 nights ']",20,1,0,0,0,0,2,0,0,0,1.3722512174468977
+148,2017-02-02,9.6,"[' Business trip ', ' Solo traveler ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",25,0,0,1,0,1,2,0,0,0,1.8824197122966624
+149,2017-02-18,2.5,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,2,0,0,0,-0.566389062982209
+150,2017-02-16,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room ', ' Stayed 2 nights ']",6,1,0,0,0,0,2,0,0,0,-0.05622056813244411
+151,2017-02-13,10.0,"[' Leisure trip ', ' Group ', ' Classic Double or Twin Room ', ' Stayed 3 nights ']",2,1,1,0,0,0,2,0,0,0,-0.464355364012256
+152,2017-02-21,10.0,"[' Leisure trip ', ' Couple ', ' Twin Room Disability Access ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,2,0,0,0,-0.26028796607235005
+153,2017-02-03,10.0,"[' Leisure trip ', ' Solo traveler ', ' Superior Room with Queen size bed and Sofa Bed ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,2,0,0,0,-0.566389062982209
+154,2017-02-18,7.1,"[' Leisure trip ', ' Group ', ' Superior Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,2,0,0,0,-0.566389062982209
+155,2017-02-25,8.3,"[' Leisure trip ', ' Family with young children ', ' Quadruple Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",24,1,0,0,1,1,2,0,0,0,1.7803860133267093
+156,2016-02-04,9.6,"[' Leisure trip ', ' Couple ', ' Deluxe King Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,2,0,0,0,-0.464355364012256
+157,2017-03-09,9.6,"[' Leisure trip ', ' Group ', ' Studio ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,3,1,0,0,-0.566389062982209
+158,2017-03-19,9.6,"[' Family with young children ', ' Standard Double Room without Window ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,0,0,0,1,1,3,1,0,0,-0.566389062982209
+159,2016-03-29,7.9,"[' Leisure trip ', ' Couple ', ' Cosy Double Room ', ' Stayed 2 nights ']",4,1,0,0,0,0,3,1,0,0,-0.26028796607235005
+160,2017-03-06,9.6,"[' Leisure trip ', ' Solo traveler ', ' Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",6,1,0,1,0,1,3,1,0,0,-0.05622056813244411
+161,2016-03-08,8.3,"[' Leisure trip ', ' Couple ', ' Deluxe King with Balcony ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,3,1,0,0,-0.36232166504230306
+162,2016-03-15,9.6,"[' Leisure trip ', ' Family with young children ', ' Twin Room ', ' Stayed 3 nights ']",9,1,0,0,1,0,3,1,0,0,0.24988052877741485
+163,2017-03-24,9.6,"[' Business trip ', ' Group ', ' Standard Queen Room with Sofa Bed ', ' Stayed 1 night ']",1,0,1,0,0,0,3,1,0,0,-0.566389062982209
+164,2016-03-14,8.8,"[' Business trip ', ' Solo traveler ', ' Superior Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,0,0,1,0,1,3,1,0,0,-0.36232166504230306
+165,2017-03-21,7.9,"[' Leisure trip ', ' Family with young children ', ' Classic Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,3,1,0,0,-0.566389062982209
+166,2016-03-13,10.0,"[' Leisure trip ', ' Group ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,1,0,0,1,3,1,0,0,-0.26028796607235005
+167,2016-03-31,8.8,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,0,0,0,1,3,1,0,0,-0.26028796607235005
+168,2017-03-22,10.0,"[' Business trip ', ' Solo traveler ', ' Double Room ', ' Stayed 1 night ']",7,0,0,1,0,0,3,1,0,0,0.045813130837508875
+169,2017-03-25,8.8,"[' Business trip ', ' Couple ', ' Classic Double Room ', ' Stayed 4 nights ']",15,0,0,0,0,0,3,1,0,0,0.8620827225971327
+170,2017-03-07,6.3,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+171,2017-03-11,9.2,"[' Business trip ', ' Couple ', ' Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,0,0,0,0,1,3,1,0,0,-0.566389062982209
+172,2016-03-11,10.0,"[' Group ', ' Comfort Double Room ', ' Stayed 3 nights ']",37,0,1,0,0,0,3,1,0,0,3.106824099936098
+173,2016-03-15,8.8,"[' Leisure trip ', ' Group ', ' Standard Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",7,1,1,0,0,1,3,1,0,0,0.045813130837508875
+174,2016-03-03,7.1,"[' Leisure trip ', ' Solo traveler ', ' Double Hilton Deluxe ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",5,1,0,1,0,1,3,1,0,0,-0.1582542671023971
+175,2016-03-30,10.0,"[' Business trip ', ' Solo traveler ', ' Small Double Room Annex building ', ' Stayed 1 night ']",1,0,0,1,0,0,3,1,0,0,-0.566389062982209
+176,2016-03-31,3.3,"[' Leisure trip ', ' Couple ', ' Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,0,0,0,1,3,1,0,0,-0.26028796607235005
+177,2017-03-19,7.9,"[' Leisure trip ', ' Couple ', ' Club Double Room ', ' Stayed 1 night ']",3,1,0,0,0,0,3,1,0,0,-0.36232166504230306
+178,2016-03-15,8.8,"[' Leisure trip ', ' Group ', ' Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,3,1,0,0,-0.566389062982209
+179,2016-03-29,9.6,"[' Leisure trip ', ' Family with older children ', ' Executive Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+180,2017-03-12,9.6,"[' Leisure trip ', ' Couple ', ' Deluxe King Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,3,1,0,0,-0.464355364012256
+181,2017-03-20,9.2,"[' Leisure trip ', ' Couple ', ' Marina Double Suite ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+182,2017-03-28,7.5,"[' Leisure trip ', ' Group ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,1,1,0,0,1,3,1,0,0,-0.05622056813244411
+183,2017-03-22,9.6,"[' Leisure trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 1 night ']",26,1,0,1,0,0,3,1,0,0,1.9844534112666152
+184,2016-03-31,6.7,"[' Leisure trip ', ' Family with older children ', ' Standard Double or Twin Room ', ' Stayed 4 nights ']",2,1,0,0,0,0,3,1,0,0,-0.464355364012256
+185,2016-03-31,10.0,"[' Leisure trip ', ' Couple ', ' Classic Double or Twin Room ', ' Stayed 3 nights ']",11,1,0,0,0,0,3,1,0,0,0.4539479267173208
+186,2017-03-02,10.0,"[' Leisure trip ', ' Travelers with friends ', ' Standard Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+187,2017-03-17,9.6,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+188,2016-03-15,10.0,"[' Leisure trip ', ' Couple ', ' Standard Queen Room ', ' Stayed 1 night ']",7,1,0,0,0,0,3,1,0,0,0.045813130837508875
+189,2016-03-05,9.6,"[' Business trip ', ' Solo traveler ', ' Superior Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,0,0,1,0,1,3,1,0,0,-0.566389062982209
+190,2016-03-29,10.0,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,3,1,0,0,-0.36232166504230306
+191,2016-03-29,7.9,"[' Leisure trip ', ' Travelers with friends ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,1,0,0,0,1,3,1,0,0,-0.05622056813244411
+192,2016-03-07,9.6,"[' Couple ', ' Executive Double Room ', ' Stayed 1 night ']",1,0,0,0,0,0,3,1,0,0,-0.566389062982209
+193,2016-03-17,7.9,"[' Business trip ', ' Solo traveler ', ' Standard Room with 1 Single Bed ', ' Stayed 3 nights ']",3,0,0,1,0,0,3,1,0,0,-0.36232166504230306
+194,2017-03-03,9.6,"[' Business trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",22,0,0,0,0,1,3,1,0,0,1.5763186153868036
+195,2017-03-09,6.3,"[' Leisure trip ', ' Couple ', ' Deluxe King or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,3,1,0,0,-0.464355364012256
+196,2017-03-26,8.8,"[' Leisure trip ', ' Couple ', ' Privilege Double or Twin Room ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,3,1,0,0,-0.36232166504230306
+197,2017-03-20,3.3,"[' Leisure trip ', ' Couple ', ' 2 rooms ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,3,1,0,0,-0.464355364012256
+198,2017-03-23,9.2,"[' Leisure trip ', ' Solo traveler ', ' Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",12,1,0,1,0,1,3,1,0,0,0.5559816256872738
+199,2016-03-01,8.8,"[' Leisure trip ', ' Group ', ' Double or Twin Room ', ' Stayed 3 nights ']",2,1,1,0,0,0,3,1,0,0,-0.464355364012256
+200,2017-03-07,9.6,"[' Leisure trip ', ' Family with young children ', ' Double Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,1,1,3,1,0,0,-0.566389062982209
+201,2017-03-14,7.9,"[' Leisure trip ', ' Group ', ' Standard Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,3,1,0,0,-0.566389062982209
+202,2017-03-13,10.0,"[' Leisure trip ', ' Couple ', ' Standard Queen Room ', ' Stayed 2 nights ']",4,1,0,0,0,0,3,1,0,0,-0.26028796607235005
+203,2016-03-30,6.3,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 1 night ']",1,1,0,0,0,0,3,1,0,0,-0.566389062982209
+204,2016-03-15,10.0,"[' Business trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,0,0,0,0,1,3,1,0,0,-0.464355364012256
+205,2017-03-27,10.0,"[' Leisure trip ', ' Group ', ' 2 rooms ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,3,1,0,0,-0.566389062982209
+206,2017-03-28,8.8,"[' Leisure trip ', ' Couple ', ' Small Queen Room ', ' Stayed 2 nights ']",18,1,0,0,0,0,3,1,0,0,1.1681838195069916
+207,2016-03-01,5.0,"[' Leisure trip ', ' Family with older children ', ' Double Guest Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+208,2017-03-06,5.8,"[' Business trip ', ' Solo traveler ', ' Superior Double or Twin Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",2,0,0,1,0,1,3,1,0,0,-0.464355364012256
+209,2016-03-30,9.6,"[' Leisure trip ', ' Couple ', ' Club Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,0,0,0,1,3,1,0,0,-0.26028796607235005
+210,2017-03-20,8.8,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+211,2017-03-12,10.0,"[' Leisure trip ', ' Family with young children ', ' Classic Double Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,3,1,0,0,-0.566389062982209
+212,2017-03-20,9.6,"[' Business trip ', ' Group ', ' Standard Queen Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",44,0,1,0,0,1,3,1,0,0,3.821059992725769
+213,2017-03-10,7.5,"[' Leisure trip ', ' Couple ', ' Superior King or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",21,1,0,0,0,1,3,1,0,0,1.4742849164168506
+214,2017-03-17,8.3,"[' Leisure trip ', ' Family with young children ', ' Double Room Non Smoking ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",3,1,0,0,1,1,3,1,0,0,-0.36232166504230306
+215,2017-03-30,5.8,"[' Business trip ', ' Couple ', ' Single Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",4,0,0,0,0,1,3,1,0,0,-0.26028796607235005
+216,2017-03-14,5.8,"[' Leisure trip ', ' Couple ', ' Standard Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",17,1,0,0,0,1,3,1,0,0,1.0661501205370387
+217,2016-03-11,5.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ']",1,1,0,0,0,0,3,1,0,0,-0.566389062982209
+218,2016-03-16,9.6,"[' Leisure trip ', ' Family with older children ', ' Standard Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,3,1,0,0,-0.464355364012256
+219,2017-03-20,8.3,"[' Leisure trip ', ' Family with young children ', ' Deluxe King Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",24,1,0,0,1,1,3,1,0,0,1.7803860133267093
+220,2017-03-16,7.9,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+221,2016-03-01,10.0,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 2 nights ']",2,1,0,0,0,0,3,1,0,0,-0.464355364012256
+222,2017-03-13,8.3,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+223,2016-03-10,7.5,"[' Business trip ', ' Solo traveler ', ' Executive Double Room ', ' Stayed 1 night ']",6,0,0,1,0,0,3,1,0,0,-0.05622056813244411
+224,2017-03-14,7.9,"[' Business trip ', ' Couple ', ' Luxury Room ', ' Stayed 2 nights ']",10,0,0,0,0,0,3,1,0,0,0.3519142277473678
+225,2017-03-09,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,3,1,0,0,-0.1582542671023971
+226,2017-03-01,7.5,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+227,2017-03-02,9.6,"[' Leisure trip ', ' Family with young children ', ' Standard Queen Room ', ' Stayed 1 night ']",28,1,0,0,1,0,3,1,0,0,2.1885208092065214
+228,2016-03-27,7.9,"[' Leisure trip ', ' Couple ', ' Apartment ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+229,2016-03-13,9.2,"[' Leisure trip ', ' Couple ', ' Superior King or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,3,1,0,0,-0.566389062982209
+230,2017-03-11,5.8,"[' Leisure trip ', ' Couple ', ' Basic Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",6,1,0,0,0,1,3,1,0,0,-0.05622056813244411
+231,2017-03-13,8.3,"[' Leisure trip ', ' Family with young children ', ' Standard Double Room No Window ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,1,1,3,1,0,0,-0.36232166504230306
+232,2017-03-14,4.2,"[' Business trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",5,0,0,1,0,1,3,1,0,0,-0.1582542671023971
+233,2016-03-01,10.0,"[' Leisure trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,1,0,1,3,1,0,0,-0.566389062982209
+234,2016-03-17,8.8,"[' Leisure trip ', ' Family with older children ', ' Superior Quadruple Room ', ' Stayed 1 night ']",21,1,0,0,0,0,3,1,0,0,1.4742849164168506
+235,2016-03-05,9.2,"[' Business trip ', ' Solo traveler ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,0,0,1,0,1,3,1,0,0,-0.26028796607235005
+236,2017-03-31,6.7,"[' Leisure trip ', ' Solo traveler ', ' Junior Double ', ' Stayed 3 nights ']",29,1,0,1,0,0,3,1,0,0,2.2905545081764744
+237,2016-04-05,7.5,"[' Business trip ', ' Solo traveler ', ' Deluxe Room ', ' Stayed 5 nights ']",2,0,0,1,0,0,4,1,0,0,-0.464355364012256
+238,2016-04-05,8.8,"[' Leisure trip ', ' Family with young children ', ' Deluxe King Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,4,1,0,0,-0.566389062982209
+239,2016-04-26,4.6,"[' Business trip ', ' Solo traveler ', ' Basic Double Room ', ' Stayed 1 night ']",7,0,0,1,0,0,4,1,0,0,0.045813130837508875
+240,2016-04-09,10.0,"[' Leisure trip ', ' Couple ', ' Premium Double Room ', ' Stayed 3 nights ']",10,1,0,0,0,0,4,1,0,0,0.3519142277473678
+241,2016-04-26,6.3,"[' Leisure trip ', ' Group ', ' Deluxe Room ', ' Stayed 2 nights ']",2,1,1,0,0,0,4,1,0,0,-0.464355364012256
+242,2017-04-05,9.6,"[' Leisure trip ', ' Couple ', ' Superior Double Room with Balcony ', ' Stayed 2 nights ']",3,1,0,0,0,0,4,1,0,0,-0.36232166504230306
+243,2016-04-12,7.5,"[' Leisure trip ', ' Family with older children ', ' Twin Hilton Guest Room ', ' Stayed 1 night ']",1,1,0,0,0,0,4,1,0,0,-0.566389062982209
+244,2016-04-01,9.2,"[' Leisure trip ', ' Couple ', ' Junior Suite 2 Adults ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,4,1,0,0,-0.566389062982209
+245,2017-04-19,8.3,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,4,1,0,0,-0.566389062982209
+246,2016-04-05,7.5,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,4,1,0,0,-0.36232166504230306
+247,2017-04-10,10.0,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,4,1,0,0,-0.464355364012256
+248,2016-04-29,8.3,"[' Business trip ', ' Solo traveler ', ' Single Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,0,0,1,0,1,4,1,0,0,-0.26028796607235005
+249,2017-04-07,10.0,"[' Leisure trip ', ' Couple ', ' City King Room ', ' Stayed 1 night ']",5,1,0,0,0,0,4,1,0,0,-0.1582542671023971
+250,2017-04-05,9.6,"[' Business trip ', ' Solo traveler ', ' Deluxe Junior Suite ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",10,0,0,1,0,1,4,1,0,0,0.3519142277473678
+251,2016-04-29,7.9,"[' Leisure trip ', ' Group ', ' Double or Twin Room ', ' Stayed 6 nights ']",3,1,1,0,0,0,4,1,0,0,-0.36232166504230306
+252,2016-04-16,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,4,1,0,0,-0.566389062982209
+253,2016-04-26,10.0,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,4,1,0,0,-0.566389062982209
+254,2017-04-17,9.6,"[' Leisure trip ', ' Couple ', ' Deluxe King Room with Stadium View ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,4,1,0,0,-0.566389062982209
+255,2016-04-07,8.3,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 1 night ']",6,1,0,0,0,0,4,1,0,0,-0.05622056813244411
+256,2017-04-27,6.3,"[' Business trip ', ' Solo traveler ', ' Club Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",32,0,0,1,0,1,4,1,0,0,2.596655605086333
+257,2017-04-21,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,4,1,0,0,-0.36232166504230306
+258,2016-04-03,10.0,"[' Leisure trip ', ' Couple ', ' Standard Double Room without Window ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,4,1,0,0,-0.566389062982209
+259,2016-04-26,9.2,"[' Leisure trip ', ' Group ', ' 2 rooms ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",12,1,1,0,0,1,4,1,0,0,0.5559816256872738
+260,2016-04-04,9.2,"[' Leisure trip ', ' Group ', ' Classic Double or Twin Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",15,1,1,0,0,1,4,1,0,0,0.8620827225971327
+261,2017-04-30,7.1,"[' Leisure trip ', ' Group ', ' Executive King Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",25,1,1,0,0,1,4,1,0,0,1.8824197122966624
+262,2016-04-21,8.3,"[' Leisure trip ', ' Solo traveler ', ' Superior Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",5,1,0,1,0,1,4,1,0,0,-0.1582542671023971
+263,2016-04-14,6.7,"[' Leisure trip ', ' Couple ', ' Apartment ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,4,1,0,0,-0.26028796607235005
+264,2016-04-28,10.0,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,4,1,0,0,-0.566389062982209
+265,2016-04-24,10.0,"[' Leisure trip ', ' Family with young children ', ' Superior Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,1,1,4,1,0,0,-0.566389062982209
+266,2016-04-10,8.8,"[' Leisure trip ', ' Solo traveler ', ' Basic Single Room ', ' Stayed 1 night ']",7,1,0,1,0,0,4,1,0,0,0.045813130837508875
+267,2016-04-23,2.5,"[' Leisure trip ', ' Family with young children ', ' Standard Double or Twin Room ', ' Stayed 3 nights ']",1,1,0,0,1,0,4,1,0,0,-0.566389062982209
+268,2017-04-13,10.0,"[' Business trip ', ' Group ', ' Superior Double Room ', ' Stayed 3 nights ']",11,0,1,0,0,0,4,1,0,0,0.4539479267173208
+269,2016-04-14,9.6,"[' Leisure trip ', ' Group ', ' Superior Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,4,1,0,0,-0.566389062982209
+270,2016-04-26,10.0,"[' Leisure trip ', ' Group ', ' Executive Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,4,1,0,0,-0.566389062982209
+271,2016-04-07,2.5,"[' Leisure trip ', ' Group ', ' Classic Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,4,1,0,0,-0.566389062982209
+272,2016-04-03,5.4,"[' Leisure trip ', ' Group ', ' Special Offer Double Room ', ' Stayed 2 nights ']",1,1,1,0,0,0,4,1,0,0,-0.566389062982209
+273,2017-04-21,10.0,"[' Leisure trip ', ' Family with young children ', ' Classic Double Room ', ' Stayed 2 nights ']",12,1,0,0,1,0,4,1,0,0,0.5559816256872738
+274,2016-04-11,6.7,"[' Leisure trip ', ' Couple ', ' Double Room with Balcony ', ' Stayed 3 nights ']",56,1,0,0,0,0,4,1,0,0,5.045464380365205
+275,2017-04-03,9.2,"[' Business trip ', ' Solo traveler ', ' Classic Single Room ', ' Stayed 1 night ']",5,0,0,1,0,0,4,1,0,0,-0.1582542671023971
+276,2016-04-08,10.0,"[' Business trip ', ' Solo traveler ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",5,0,0,1,0,1,4,1,0,0,-0.1582542671023971
+277,2017-04-25,9.6,"[' Leisure trip ', ' Group ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",7,1,1,0,0,1,4,1,0,0,0.045813130837508875
+278,2017-04-09,4.2,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,4,1,0,0,-0.566389062982209
+279,2017-04-29,9.6,"[' Leisure trip ', ' Solo traveler ', ' Deluxe Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,1,0,1,4,1,0,0,-0.464355364012256
+280,2016-04-04,7.1,"[' Leisure trip ', ' Couple ', ' Standard Double ', ' Stayed 4 nights ']",2,1,0,0,0,0,4,1,0,0,-0.464355364012256
+281,2016-04-30,10.0,"[' Business trip ', ' Solo traveler ', ' Classic Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",5,0,0,1,0,1,4,1,0,0,-0.1582542671023971
+282,2017-04-05,4.2,"[' Leisure trip ', ' Family with young children ', ' Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,1,1,4,1,0,0,-0.36232166504230306
+283,2017-04-25,8.3,"[' Leisure trip ', ' Couple ', ' Standard Double Twin Room ', ' Stayed 2 nights ']",5,1,0,0,0,0,4,1,0,0,-0.1582542671023971
+284,2016-04-25,9.2,"[' Leisure trip ', ' Couple ', ' Queen Guest Room ', ' Stayed 1 night ']",3,1,0,0,0,0,4,1,0,0,-0.36232166504230306
+285,2017-04-09,2.5,"[' Leisure trip ', ' Group ', ' Standard Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,1,1,0,0,1,4,1,0,0,-0.05622056813244411
+286,2016-04-14,9.4,"[' Leisure trip ', ' Family with young children ', ' Double or Twin Room 2 Adult 1 Children ', ' Stayed 1 night ']",2,1,0,0,1,0,4,1,0,0,-0.464355364012256
+287,2017-04-26,10.0,"[' Business trip ', ' Solo traveler ', ' Double or Twin Room ', ' Stayed 1 night ']",22,0,0,1,0,0,4,1,0,0,1.5763186153868036
+288,2017-04-06,8.3,"[' Business trip ', ' Solo traveler ', ' Queen Guest Room ', ' Stayed 1 night ']",19,0,0,1,0,0,4,1,0,0,1.2702175184769446
+289,2017-04-01,7.9,"[' Leisure trip ', ' Family with young children ', ' Standard Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,4,1,0,0,-0.566389062982209
+290,2017-04-10,10.0,"[' Leisure trip ', ' Family with young children ', ' Quadruple Room ', ' Stayed 5 nights ']",3,1,0,0,1,0,4,1,0,0,-0.36232166504230306
+291,2016-04-12,6.3,"[' Solo traveler ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,0,0,1,0,1,4,1,0,0,-0.26028796607235005
+292,2017-04-20,8.8,"[' Leisure trip ', ' Family with older children ', ' Deluxe Triple Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",31,1,0,0,0,1,4,1,0,0,2.49462190611638
+293,2017-04-24,9.2,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,4,1,0,0,-0.1582542671023971
+294,2016-04-17,9.2,"[' Leisure trip ', ' Family with young children ', ' Luxury Room 3 Adults with canal view ', ' Stayed 6 nights ']",1,1,0,0,1,0,4,1,0,0,-0.566389062982209
+295,2017-04-06,7.1,"[' Leisure trip ', ' Family with young children ', ' Standard Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",11,1,0,0,1,1,4,1,0,0,0.4539479267173208
+296,2016-04-08,10.0,"[' Leisure trip ', ' Solo traveler ', ' Standard Queen Room ', ' Stayed 1 night ']",12,1,0,1,0,0,4,1,0,0,0.5559816256872738
+297,2016-04-19,9.6,"[' Leisure trip ', ' Couple ', ' Studio Suite ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",12,1,0,0,0,1,4,1,0,0,0.5559816256872738
+298,2016-04-30,5.8,"[' Leisure trip ', ' Family with older children ', ' Twin Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,4,1,0,0,-0.566389062982209
+299,2017-04-18,10.0,"[' Leisure trip ', ' Family with young children ', ' Superior Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,4,1,0,0,-0.566389062982209
+300,2016-04-03,8.8,"[' Leisure trip ', ' Family with older children ', ' Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",7,1,0,0,0,1,4,1,0,0,0.045813130837508875
+301,2017-04-19,8.8,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 3 nights ']",1,1,0,0,0,0,4,1,0,0,-0.566389062982209
+302,2017-04-05,6.7,"[' Leisure trip ', ' Family with young children ', ' Superior Room with Queen size bed and Sofa Bed ', ' Stayed 2 nights ']",1,1,0,0,1,0,4,1,0,0,-0.566389062982209
+303,2017-04-24,5.8,"[' Business trip ', ' Solo traveler ', ' Single Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,4,1,0,0,-0.566389062982209
+304,2017-04-10,7.1,"[' Leisure trip ', ' Family with young children ', ' Standard Double Room ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,4,1,0,0,-0.566389062982209
+305,2017-04-28,8.3,"[' Leisure trip ', ' Couple ', ' Twin Room Non Smoking ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,4,1,0,0,-0.566389062982209
+306,2016-04-07,9.6,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",21,1,0,0,0,1,4,1,0,0,1.4742849164168506
+307,2017-04-10,8.8,"[' Business trip ', ' Family with young children ', ' Executive King Room ', ' Stayed 3 nights ']",22,0,0,0,1,0,4,1,0,0,1.5763186153868036
+308,2016-04-06,10.0,"[' Leisure trip ', ' Family with older children ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",46,1,0,0,0,1,4,1,0,0,4.025127390665675
+309,2017-04-15,10.0,"[' Leisure trip ', ' Group ', ' Executive Twin Room ', ' Stayed 8 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,4,1,0,0,-0.566389062982209
+310,2016-04-05,6.3,"[' Leisure trip ', ' Couple ', ' Superior Plus Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,4,1,0,0,-0.566389062982209
+311,2017-04-26,6.7,"[' Leisure trip ', ' Family with young children ', ' Double or Twin Room ', ' Stayed 2 nights ']",20,1,0,0,1,0,4,1,0,0,1.3722512174468977
+312,2016-04-09,6.7,"[' Business trip ', ' Couple ', ' Double Room ', ' Stayed 3 nights ']",4,0,0,0,0,0,4,1,0,0,-0.26028796607235005
+313,2017-04-11,8.8,"[' Leisure trip ', ' Family with young children ', ' Studio King Family ', ' Stayed 3 nights ']",32,1,0,0,1,0,4,1,0,0,2.596655605086333
+314,2016-04-12,6.7,"[' Leisure trip ', ' Couple ', ' One Bedroom Suite ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",6,1,0,0,0,1,4,1,0,0,-0.05622056813244411
+315,2016-04-30,9.0,"[' Business trip ', ' Solo traveler ', ' Luxury Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,0,0,1,0,1,4,1,0,0,-0.26028796607235005
+316,2017-04-06,7.9,"[' Leisure trip ', ' Couple ', ' Basic Double Room ', ' Stayed 3 nights ']",24,1,0,0,0,0,4,1,0,0,1.7803860133267093
+317,2017-04-05,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 1 night ']",35,1,0,0,0,0,4,1,0,0,2.902756701996192
+318,2016-04-10,10.0,"[' Leisure trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 1 night ']",12,1,0,1,0,0,4,1,0,0,0.5559816256872738
+319,2017-04-27,8.8,"[' Leisure trip ', ' Solo traveler ', ' Deluxe Double Room ', ' Stayed 1 night ']",4,1,0,1,0,0,4,1,0,0,-0.26028796607235005
+320,2016-05-23,10.0,"[' Business trip ', ' Group ', ' Executive Twin Room ', ' Stayed 1 night ']",2,0,1,0,0,0,5,1,0,0,-0.464355364012256
+321,2016-05-20,8.8,"[' Business trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,5,1,0,0,-0.566389062982209
+322,2016-05-04,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,5,1,0,0,-0.36232166504230306
+323,2016-05-03,7.5,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,5,1,0,0,-0.566389062982209
+324,2016-05-10,9.6,"[' Leisure trip ', ' Couple ', ' Double Room with Public Transport Ticket ', ' Stayed 2 nights ']",15,1,0,0,0,0,5,1,0,0,0.8620827225971327
+325,2017-05-10,8.3,"[' Leisure trip ', ' Family with young children ', ' Superior Double Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",15,1,0,0,1,1,5,1,0,0,0.8620827225971327
+326,2016-05-27,8.8,"[' Leisure trip ', ' Family with older children ', ' Superior Double or Twin Room ', ' Stayed 1 night ']",8,1,0,0,0,0,5,1,0,0,0.14784682980746186
+327,2017-05-26,8.8,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ']",12,1,0,0,0,0,5,1,0,0,0.5559816256872738
+328,2017-05-15,7.9,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,5,1,0,0,-0.566389062982209
+329,2017-05-30,9.6,"[' Leisure trip ', ' Family with young children ', ' Superior Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,5,1,0,0,-0.566389062982209
+330,2017-05-16,10.0,"[' Business trip ', ' Solo traveler ', ' Classic Room with Courtyard View ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",13,0,0,1,0,1,5,1,0,0,0.6580153246572268
+331,2016-05-03,8.8,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 2 nights ']",10,1,0,0,0,0,5,1,0,0,0.3519142277473678
+332,2017-05-11,5.4,"[' Leisure trip ', ' Solo traveler ', ' Executive Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,5,1,0,0,-0.566389062982209
+333,2016-05-02,6.3,"[' Leisure trip ', ' Family with young children ', ' Standard Double Room ', ' Stayed 4 nights ']",1,1,0,0,1,0,5,1,0,0,-0.566389062982209
+334,2017-05-09,7.5,"[' Leisure trip ', ' Family with young children ', ' Standard Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,5,1,0,0,-0.566389062982209
+335,2017-05-20,10.0,"[' Business trip ', ' Travelers with friends ', ' Deluxe Double or Twin Room ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",1,0,0,0,0,1,5,1,0,0,-0.566389062982209
+336,2017-05-12,8.3,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,5,1,0,0,-0.26028796607235005
+337,2017-05-31,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ']",13,1,0,0,0,0,5,1,0,0,0.6580153246572268
+338,2017-05-13,7.5,"[' Leisure trip ', ' Family with young children ', ' Guest Queen Room with Two Queen Beds ', ' Stayed 2 nights ']",5,1,0,0,1,0,5,1,0,0,-0.1582542671023971
+339,2017-05-06,10.0,"[' Leisure trip ', ' Family with young children ', ' Deluxe Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",2,1,0,0,1,1,5,1,0,0,-0.464355364012256
+340,2016-05-26,2.9,"[' Business trip ', ' Couple ', ' Basic Double Room ', ' Stayed 2 nights ']",1,0,0,0,0,0,5,1,0,0,-0.566389062982209
+341,2017-05-05,7.1,"[' Business trip ', ' Couple ', ' Queen Guest Room ', ' Stayed 2 nights ']",5,0,0,0,0,0,5,1,0,0,-0.1582542671023971
+342,2017-05-16,6.3,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",29,1,0,0,0,1,5,1,0,0,2.2905545081764744
+343,2017-05-20,10.0,"[' Leisure trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,5,1,0,0,-0.566389062982209
+344,2017-05-02,10.0,"[' Business trip ', ' Solo traveler ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,0,0,1,0,1,5,1,0,0,-0.464355364012256
+345,2017-05-26,10.0,"[' Group ', ' Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,0,1,0,0,1,5,1,0,0,-0.566389062982209
+346,2016-05-10,9.5,"[' Business trip ', ' Solo traveler ', ' Twin Room Non Smoking ', ' Stayed 4 nights ']",2,0,0,1,0,0,5,1,0,0,-0.464355364012256
+347,2017-05-01,8.3,"[' Leisure trip ', ' Family with young children ', ' Classic Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,1,1,5,1,0,0,-0.566389062982209
+348,2016-05-06,9.2,"[' Leisure trip ', ' Couple ', ' Double Room with Street View ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,1,0,0,0,1,5,1,0,0,-0.05622056813244411
+349,2017-05-15,10.0,"[' Leisure trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 2 nights ']",8,1,0,1,0,0,5,1,0,0,0.14784682980746186
+350,2016-05-09,8.8,"[' Leisure trip ', ' Couple ', ' Superior Room with Spa access ', ' Stayed 3 nights ']",2,1,0,0,0,0,5,1,0,0,-0.464355364012256
+351,2016-05-29,9.6,"[' Business trip ', ' Solo traveler ', ' Superior Suite ', ' Stayed 1 night ']",1,0,0,1,0,0,5,1,0,0,-0.566389062982209
+352,2016-05-12,6.7,"[' Business trip ', ' Solo traveler ', ' Deluxe Double Room ', ' Stayed 2 nights ']",2,0,0,1,0,0,5,1,0,0,-0.464355364012256
+353,2016-05-04,9.2,"[' Leisure trip ', ' Group ', ' Basic Double Room ', ' Stayed 2 nights ']",18,1,1,0,0,0,5,1,0,0,1.1681838195069916
+354,2016-05-10,7.5,"[' Business trip ', ' Solo traveler ', ' Superior King Room ', ' Stayed 1 night ']",2,0,0,1,0,0,5,1,0,0,-0.464355364012256
+355,2017-05-06,9.6,"[' Leisure trip ', ' Group ', ' Economy Twin Room ', ' Stayed 1 night ']",1,1,1,0,0,0,5,1,0,0,-0.566389062982209
+356,2016-05-04,3.3,"[' Leisure trip ', ' Family with older children ', ' Deluxe Double Room ', ' Stayed 4 nights ']",5,1,0,0,0,0,5,1,0,0,-0.1582542671023971
+357,2017-05-03,8.3,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ']",2,1,0,0,0,0,5,1,0,0,-0.464355364012256
+358,2016-05-08,10.0,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,5,1,0,0,-0.566389062982209
+359,2016-05-26,5.8,"[' Leisure trip ', ' Couple ', ' Business Double Room ', ' Stayed 2 nights ']",14,1,0,0,0,0,5,1,0,0,0.7600490236271797
+360,2016-05-02,9.6,"[' Leisure trip ', ' Couple ', ' Superior King Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,5,1,0,0,-0.566389062982209
+361,2017-05-27,10.0,"[' Leisure trip ', ' Family with young children ', ' Superior Queen Room ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",4,1,0,0,1,1,5,1,0,0,-0.26028796607235005
+362,2016-05-18,10.0,"[' Business trip ', ' Solo traveler ', ' Deluxe Single Room ', ' Stayed 9 nights ', ' Submitted from a mobile device ']",6,0,0,1,0,1,5,1,0,0,-0.05622056813244411
+363,2017-05-07,9.2,"[' Business trip ', ' Group ', ' Deluxe King Room ', ' Stayed 5 nights ']",19,0,1,0,0,0,5,1,0,0,1.2702175184769446
+364,2017-05-10,9.2,"[' Business trip ', ' Solo traveler ', ' Basic Single Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",5,0,0,1,0,1,5,1,0,0,-0.1582542671023971
+365,2016-05-10,7.9,"[' Leisure trip ', ' Couple ', ' Standard ', ' Stayed 1 night ']",3,1,0,0,0,0,5,1,0,0,-0.36232166504230306
+366,2017-05-15,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",14,1,0,0,0,1,5,1,0,0,0.7600490236271797
+367,2017-05-30,9.6,"[' Leisure trip ', ' Family with young children ', ' Deluxe King Room with Stadium View ', ' Stayed 2 nights ']",4,1,0,0,1,0,5,1,0,0,-0.26028796607235005
+368,2016-05-03,9.2,"[' Leisure trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",10,1,0,1,0,1,5,1,0,0,0.3519142277473678
+369,2016-05-10,8.3,"[' Leisure trip ', ' Solo traveler ', ' Deluxe Queen Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,1,0,1,5,1,0,0,-0.36232166504230306
+370,2016-05-11,10.0,"[' Business trip ', ' Group ', ' Double or Twin Room with Balcony ', ' Stayed 4 nights ']",4,0,1,0,0,0,5,1,0,0,-0.26028796607235005
+371,2016-05-06,9.2,"[' Leisure trip ', ' Group ', ' Junior Suite with Spa Access ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,5,1,0,0,-0.566389062982209
+372,2017-05-25,10.0,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ']",2,1,0,0,0,0,5,1,0,0,-0.464355364012256
+373,2016-05-19,9.6,"[' Leisure trip ', ' Couple ', ' Studio ', ' Stayed 2 nights ']",2,1,0,0,0,0,5,1,0,0,-0.464355364012256
+374,2017-05-07,9.2,"[' Leisure trip ', ' Family with young children ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",12,1,0,0,1,1,5,1,0,0,0.5559816256872738
+375,2017-05-12,10.0,"[' Leisure trip ', ' Group ', ' Executive Suite ', ' Stayed 4 nights ']",6,1,1,0,0,0,5,1,0,0,-0.05622056813244411
+376,2016-05-12,6.7,"[' Business trip ', ' Solo traveler ', ' Superior King Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",5,0,0,1,0,1,5,1,0,0,-0.1582542671023971
+377,2016-05-02,8.3,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room with Spa Bath ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",13,1,0,0,0,1,5,1,0,0,0.6580153246572268
+378,2016-05-19,10.0,"[' Leisure trip ', ' Family with older children ', ' Superior Double or Twin Room ', ' Stayed 1 night ']",2,1,0,0,0,0,5,1,0,0,-0.464355364012256
+379,2017-05-12,8.8,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 2 nights ']",2,1,0,0,0,0,5,1,0,0,-0.464355364012256
+380,2017-05-22,10.0,"[' Leisure trip ', ' Couple ', ' Deluxe Room ', ' Stayed 3 nights ']",1,1,0,0,0,0,5,1,0,0,-0.566389062982209
+381,2017-05-02,9.6,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",7,1,0,0,0,1,5,1,0,0,0.045813130837508875
+382,2017-05-01,10.0,"[' Business trip ', ' Solo traveler ', ' Superior Single Room ', ' Stayed 3 nights ']",6,0,0,1,0,0,5,1,0,0,-0.05622056813244411
+383,2017-05-29,10.0,"[' Leisure trip ', ' Family with young children ', ' Standard Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,1,1,5,1,0,0,-0.566389062982209
+384,2017-05-18,7.5,"[' Business trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 1 night ']",1,0,0,1,0,0,5,1,0,0,-0.566389062982209
+385,2016-05-10,9.6,"[' Leisure trip ', ' Family with older children ', ' Superior King or Twin Room ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",7,1,0,0,0,1,5,1,0,0,0.045813130837508875
+386,2017-05-18,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room ', ' Stayed 4 nights ']",3,1,0,0,0,0,5,1,0,0,-0.36232166504230306
+387,2017-05-04,7.5,"[' Leisure trip ', ' Family with young children ', ' Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,1,1,5,1,0,0,-0.464355364012256
+388,2016-05-31,10.0,"[' Leisure trip ', ' Group ', ' Standard Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,1,0,0,1,5,1,0,0,-0.36232166504230306
+389,2017-05-21,10.0,"[' Leisure trip ', ' Couple ', ' Studio ', ' Stayed 3 nights ']",2,1,0,0,0,0,5,1,0,0,-0.464355364012256
+390,2016-05-25,6.7,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,5,1,0,0,-0.566389062982209
+391,2016-05-23,8.8,"[' Business trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 1 night ']",1,0,0,1,0,0,5,1,0,0,-0.566389062982209
+392,2017-05-22,10.0,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",5,1,0,0,0,1,5,1,0,0,-0.1582542671023971
+393,2017-05-31,8.8,"[' Leisure trip ', ' Group ', ' Deluxe Double Room ', ' Stayed 2 nights ']",15,1,1,0,0,0,5,1,0,0,0.8620827225971327
+394,2016-05-31,5.8,"[' Leisure trip ', ' Family with older children ', ' Superior Triple Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",9,1,0,0,0,1,5,1,0,0,0.24988052877741485
+395,2017-05-22,10.0,"[' Leisure trip ', ' Couple ', ' Double Room Intemporelle ', ' Stayed 1 night ', ' Submitted from a mobile device ']",5,1,0,0,0,1,5,1,0,0,-0.1582542671023971
+396,2016-05-17,9.6,"[' Leisure trip ', ' Couple ', ' Double or Twin Room with Courtyard View ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",8,1,0,0,0,1,5,1,0,0,0.14784682980746186
+397,2017-05-18,7.5,"[' Leisure trip ', ' Travelers with friends ', ' Standard Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",10,1,0,0,0,1,5,1,0,0,0.3519142277473678
+398,2017-05-19,10.0,"[' Leisure trip ', ' Group ', ' Superior Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,1,0,0,1,5,1,0,0,-0.26028796607235005
+399,2016-05-17,8.8,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,5,1,0,0,-0.566389062982209
+400,2017-05-31,9.2,"[' Leisure trip ', ' Solo traveler ', ' Standard Queen Room ', ' Stayed 3 nights ']",6,1,0,1,0,0,5,1,0,0,-0.05622056813244411
+401,2017-05-29,9.6,"[' Business trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 1 night ']",6,0,0,1,0,0,5,1,0,0,-0.05622056813244411
+402,2016-05-15,9.2,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,5,1,0,0,-0.566389062982209
+403,2017-05-16,6.7,"[' Leisure trip ', ' Family with young children ', ' Deluxe Triple Room ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,5,1,0,0,-0.566389062982209
+404,2017-05-12,10.0,"[' Leisure trip ', ' Solo traveler ', ' Deluxe Single Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",29,1,0,1,0,1,5,1,0,0,2.2905545081764744
+405,2016-05-03,10.0,"[' Leisure trip ', ' Group ', ' Superior Triple Room with 3 Single Beds ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,1,0,0,1,5,1,0,0,-0.464355364012256
+406,2017-05-05,10.0,"[' Leisure trip ', ' Couple ', ' Classic Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",46,1,0,0,0,1,5,1,0,0,4.025127390665675
+407,2016-05-27,9.2,"[' Leisure trip ', ' Couple ', ' Two Connecting Double Rooms ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",18,1,0,0,0,1,5,1,0,0,1.1681838195069916
+408,2017-05-26,7.1,"[' Business trip ', ' Solo traveler ', ' Superior King or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,0,0,1,0,1,5,1,0,0,-0.566389062982209
+409,2017-05-15,10.0,"[' Leisure trip ', ' Group ', ' Classic Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,1,0,0,1,5,1,0,0,-0.464355364012256
+410,2016-06-05,7.5,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,6,0,1,0,-0.36232166504230306
+411,2016-06-17,6.7,"[' Business trip ', ' Solo traveler ', ' Double Room ', ' Stayed 4 nights ']",12,0,0,1,0,0,6,0,1,0,0.5559816256872738
+412,2017-06-09,8.8,"[' Leisure trip ', ' Family with young children ', ' Deluxe Room ', ' Stayed 4 nights ']",14,1,0,0,1,0,6,0,1,0,0.7600490236271797
+413,2016-06-19,9.6,"[' Leisure trip ', ' Solo traveler ', ' Standard Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,0,1,0,1,6,0,1,0,-0.26028796607235005
+414,2017-06-23,9.2,"[' Leisure trip ', ' Group ', ' Superior Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,6,0,1,0,-0.566389062982209
+415,2017-06-06,4.6,"[' Leisure trip ', ' Couple ', ' Triple Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,6,0,1,0,-0.464355364012256
+416,2016-06-05,3.3,"[' Leisure trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 4 nights ']",3,1,0,1,0,0,6,0,1,0,-0.36232166504230306
+417,2016-06-15,10.0,"[' Leisure trip ', ' Group ', ' Superior Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,6,0,1,0,-0.566389062982209
+418,2016-06-13,8.3,"[' Leisure trip ', ' Group ', ' Standard Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,6,0,1,0,-0.566389062982209
+419,2017-06-20,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe Double ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,6,0,1,0,-0.566389062982209
+420,2017-06-11,10.0,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,6,0,1,0,-0.464355364012256
+421,2017-06-21,2.9,"[' Leisure trip ', ' Family with young children ', ' Basic Double Room ', ' Stayed 2 nights ']",3,1,0,0,1,0,6,0,1,0,-0.36232166504230306
+422,2016-06-21,10.0,"[' Leisure trip ', ' Group ', ' Classic Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",12,1,1,0,0,1,6,0,1,0,0.5559816256872738
+423,2017-06-07,9.6,"[' Leisure trip ', ' Couple ', ' Classic Queen Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,6,0,1,0,-0.566389062982209
+424,2017-06-18,10.0,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,6,0,1,0,-0.464355364012256
+425,2017-06-01,10.0,"[' Leisure trip ', ' Family with young children ', ' Family Studio ', ' Stayed 4 nights ']",24,1,0,0,1,0,6,0,1,0,1.7803860133267093
+426,2016-06-28,8.3,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 4 nights ']",1,1,0,0,0,0,6,0,1,0,-0.566389062982209
+427,2016-06-21,8.3,"[' Leisure trip ', ' Couple ', ' Club Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,6,0,1,0,-0.36232166504230306
+428,2017-06-06,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,6,0,1,0,-0.36232166504230306
+429,2017-06-23,8.3,"[' Leisure trip ', ' Family with young children ', ' Studio King Family ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",16,1,0,0,1,1,6,0,1,0,0.9641164215670857
+430,2017-06-27,8.8,"[' Leisure trip ', ' Group ', ' Standard Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,6,0,1,0,-0.566389062982209
+431,2016-06-21,7.5,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",9,1,0,0,0,1,6,0,1,0,0.24988052877741485
+432,2016-06-28,9.6,"[' Leisure trip ', ' Group ', ' Classic Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",3,1,1,0,0,1,6,0,1,0,-0.36232166504230306
+433,2017-06-17,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,6,0,1,0,-0.566389062982209
+434,2017-06-23,10.0,"[' Leisure trip ', ' Group ', ' Superior Double or Twin Room with Balcony ', ' Stayed 6 nights ']",17,1,1,0,0,0,6,0,1,0,1.0661501205370387
+435,2017-06-29,9.6,"[' Leisure trip ', ' Group ', ' Twin Guest Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,1,0,0,1,6,0,1,0,-0.464355364012256
+436,2016-06-05,5.8,"[' Leisure trip ', ' Solo traveler ', ' Marina Double Suite ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",5,1,0,1,0,1,6,0,1,0,-0.1582542671023971
+437,2017-06-14,7.1,"[' Leisure trip ', ' Family with young children ', ' 2 rooms ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,1,1,6,0,1,0,-0.36232166504230306
+438,2016-06-19,8.8,"[' Leisure trip ', ' Family with young children ', ' Family Room ', ' Stayed 3 nights ']",2,1,0,0,1,0,6,0,1,0,-0.464355364012256
+439,2016-06-06,7.1,"[' Leisure trip ', ' Group ', ' Double or Twin Room Non Smoking ', ' Stayed 2 nights ']",1,1,1,0,0,0,6,0,1,0,-0.566389062982209
+440,2016-06-07,8.3,"[' Leisure trip ', ' Couple ', ' Queen Hilton Guest Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,6,0,1,0,-0.566389062982209
+441,2016-06-21,7.9,"[' Business trip ', ' Couple ', ' Executive Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",14,0,0,0,0,1,6,0,1,0,0.7600490236271797
+442,2016-06-07,10.0,"[' Leisure trip ', ' Couple ', ' Twin Room Disability Access ', ' Stayed 4 nights ']",6,1,0,0,0,0,6,0,1,0,-0.05622056813244411
+443,2017-06-27,7.5,"[' Leisure trip ', ' Group ', ' Comfort Triple Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,6,0,1,0,-0.566389062982209
+444,2017-06-27,8.3,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 3 nights ']",9,1,0,0,0,0,6,0,1,0,0.24988052877741485
+445,2017-06-12,10.0,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,6,0,1,0,-0.566389062982209
+446,2016-06-21,9.2,"[' Business trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,6,0,1,0,-0.566389062982209
+447,2016-06-06,8.8,"[' Leisure trip ', ' Couple ', ' Studio Suite ', ' Stayed 9 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,6,0,1,0,-0.1582542671023971
+448,2016-06-28,9.6,"[' Leisure trip ', ' Couple ', ' Studio ', ' Stayed 4 nights ']",11,1,0,0,0,0,6,0,1,0,0.4539479267173208
+449,2016-06-22,7.9,"[' Leisure trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",5,1,0,1,0,1,6,0,1,0,-0.1582542671023971
+450,2016-06-05,9.6,"[' Leisure trip ', ' Group ', ' Superior Double Room ', ' Stayed 4 nights ']",11,1,1,0,0,0,6,0,1,0,0.4539479267173208
+451,2017-06-27,6.7,"[' Business trip ', ' Group ', ' Single Room ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",1,0,1,0,0,1,6,0,1,0,-0.566389062982209
+452,2016-06-20,7.9,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 1 night ']",12,1,0,0,0,0,6,0,1,0,0.5559816256872738
+453,2016-06-22,9.6,"[' Leisure trip ', ' Family with young children ', ' Deluxe Double or Twin Room 2 adults 1 child ', ' Stayed 2 nights ']",4,1,0,0,1,0,6,0,1,0,-0.26028796607235005
+454,2017-06-13,8.0,"[' Leisure trip ', ' Group ', ' Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,6,0,1,0,-0.566389062982209
+455,2016-06-02,8.3,"[' Leisure trip ', ' Solo traveler ', ' Deluxe Single Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",8,1,0,1,0,1,6,0,1,0,0.14784682980746186
+456,2016-06-21,9.6,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,6,0,1,0,-0.566389062982209
+457,2016-06-05,5.8,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room Tea Time Wine Tasting Included ', ' Stayed 3 nights ']",2,1,0,0,0,0,6,0,1,0,-0.464355364012256
+458,2016-06-23,2.5,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 3 nights ']",1,1,0,0,0,0,6,0,1,0,-0.566389062982209
+459,2017-06-01,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe King Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,6,0,1,0,-0.36232166504230306
+460,2016-06-11,5.4,"[' Group ', ' Standard Twin Room ', ' Stayed 4 nights ']",2,0,1,0,0,0,6,0,1,0,-0.464355364012256
+461,2016-06-29,8.8,"[' Leisure trip ', ' Family with older children ', ' Superior Queen Room ', ' Stayed 1 night ']",9,1,0,0,0,0,6,0,1,0,0.24988052877741485
+462,2016-06-30,3.3,"[' Leisure trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,0,1,0,1,6,0,1,0,-0.26028796607235005
+463,2017-06-05,3.8,"[' Leisure trip ', ' Family with young children ', ' Superior Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",4,1,0,0,1,1,6,0,1,0,-0.26028796607235005
+464,2017-06-13,10.0,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,6,0,1,0,-0.566389062982209
+465,2016-06-26,9.2,"[' Business trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 1 night ']",24,0,0,1,0,0,6,0,1,0,1.7803860133267093
+466,2016-06-28,7.5,"[' Leisure trip ', ' Solo traveler ', ' Comfort Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",12,1,0,1,0,1,6,0,1,0,0.5559816256872738
+467,2016-06-28,10.0,"[' Leisure trip ', ' Group ', ' Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,6,0,1,0,-0.566389062982209
+468,2017-06-22,10.0,"[' Leisure trip ', ' Couple ', ' Standard Twin Room ', ' Stayed 3 nights ']",1,1,0,0,0,0,6,0,1,0,-0.566389062982209
+469,2017-06-17,6.3,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",7,1,0,0,0,1,6,0,1,0,0.045813130837508875
+470,2016-06-01,7.9,"[' Leisure trip ', ' Solo traveler ', ' Standard Room ', ' Stayed 2 nights ']",54,1,0,1,0,0,6,0,1,0,4.841396982425299
+471,2017-06-22,10.0,"[' Leisure trip ', ' Family with young children ', ' Superior Queen Suite with Sofa Bed ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",29,1,0,0,1,1,6,0,1,0,2.2905545081764744
+472,2017-06-05,9.6,"[' Leisure trip ', ' Group ', ' Standard Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,1,0,0,1,6,0,1,0,-0.26028796607235005
+473,2016-06-12,9.2,"[' Leisure trip ', ' Couple ', ' Queen Room with Mobility Access ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,6,0,1,0,-0.566389062982209
+474,2016-06-15,8.3,"[' Leisure trip ', ' Couple ', ' Junior Suite ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,6,0,1,0,-0.464355364012256
+475,2016-06-22,8.3,"[' Leisure trip ', ' Group ', ' Superior Twin Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,6,0,1,0,-0.566389062982209
+476,2016-06-12,8.3,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,6,0,1,0,-0.566389062982209
+477,2017-06-22,3.3,"[' Business trip ', ' Solo traveler ', ' Single Room ', ' Stayed 2 nights ']",1,0,0,1,0,0,6,0,1,0,-0.566389062982209
+478,2017-06-20,9.6,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 2 nights ']",4,1,0,0,0,0,6,0,1,0,-0.26028796607235005
+479,2017-06-19,7.9,"[' Business trip ', ' Solo traveler ', ' Superior Twin Room with Internal View ', ' Stayed 1 night ']",1,0,0,1,0,0,6,0,1,0,-0.566389062982209
+480,2017-06-27,7.9,"[' Leisure trip ', ' Couple ', ' Standard Double Room without Window ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,6,0,1,0,-0.566389062982209
+481,2017-06-06,8.3,"[' Business trip ', ' Solo traveler ', ' Double Room ', ' Stayed 1 night ']",7,0,0,1,0,0,6,0,1,0,0.045813130837508875
+482,2017-06-05,9.6,"[' Business trip ', ' Group ', ' Executive Twin Room ', ' Stayed 2 nights ']",20,0,1,0,0,0,6,0,1,0,1.3722512174468977
+483,2016-06-16,9.6,"[' Leisure trip ', ' Couple ', ' Superior King Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,6,0,1,0,-0.566389062982209
+484,2016-06-09,10.0,"[' Family with older children ', ' Classic Triple Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,0,0,0,0,1,6,0,1,0,-0.26028796607235005
+485,2017-06-29,5.8,"[' Leisure trip ', ' Couple ', ' Basic Double Room ', ' Stayed 4 nights ']",15,1,0,0,0,0,6,0,1,0,0.8620827225971327
+486,2016-06-29,9.2,"[' Leisure trip ', ' Couple ', ' Double Hilton Guestroom ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,6,0,1,0,-0.464355364012256
+487,2016-06-07,8.3,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,6,0,1,0,-0.464355364012256
+488,2016-06-12,8.3,"[' Leisure trip ', ' Couple ', ' King Room Non Smoking ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",8,1,0,0,0,1,6,0,1,0,0.14784682980746186
+489,2017-06-23,10.0,"[' Leisure trip ', ' Group ', ' Superior Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",8,1,1,0,0,1,6,0,1,0,0.14784682980746186
+490,2016-06-27,9.6,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",16,1,0,0,0,1,6,0,1,0,0.9641164215670857
+491,2016-06-21,7.5,"[' Leisure trip ', ' Solo traveler ', ' Superior Double or Twin Room ', ' Stayed 2 nights ']",25,1,0,1,0,0,6,0,1,0,1.8824197122966624
+492,2017-06-27,10.0,"[' Leisure trip ', ' Family with young children ', ' Classic Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,6,0,1,0,-0.566389062982209
+493,2017-07-17,9.6,"[' Leisure trip ', ' Family with young children ', ' Superior Double Room ', ' Stayed 3 nights ']",1,1,0,0,1,0,7,0,1,0,-0.566389062982209
+494,2016-07-20,9.6,"[' Leisure trip ', ' Family with older children ', ' Deluxe Double or Twin Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,7,0,1,0,-0.566389062982209
+495,2017-07-02,9.6,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ']",2,1,0,0,0,0,7,0,1,0,-0.464355364012256
+496,2017-07-16,8.3,"[' Group ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,0,1,0,0,1,7,0,1,0,-0.36232166504230306
+497,2016-07-14,9.6,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,7,0,1,0,-0.566389062982209
+498,2017-07-18,10.0,"[' Leisure trip ', ' Couple ', ' Twin Room with Courtyard View ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,7,0,1,0,-0.36232166504230306
+499,2017-07-16,9.6,"[' Leisure trip ', ' Couple ', ' Privilege Room with Double Bed and Single Sofa Bed ', ' Stayed 1 night ', ' Submitted from a mobile device ']",5,1,0,0,0,1,7,0,1,0,-0.1582542671023971
+500,2016-07-26,6.3,"[' Leisure trip ', ' Couple ', ' Small Queen Room ', ' Stayed 1 night ']",8,1,0,0,0,0,7,0,1,0,0.14784682980746186
+501,2016-07-23,7.9,"[' Leisure trip ', ' Family with older children ', ' Triple Room ', ' Stayed 2 nights ']",2,1,0,0,0,0,7,0,1,0,-0.464355364012256
+502,2017-07-22,10.0,"[' Solo traveler ', ' Standard Double Room without Window ', ' Stayed 2 nights ']",8,0,0,1,0,0,7,0,1,0,0.14784682980746186
+503,2017-07-12,7.9,"[' Leisure trip ', ' Group ', ' Studio ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,7,0,1,0,-0.566389062982209
+504,2017-07-10,4.2,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ']",6,1,0,0,0,0,7,0,1,0,-0.05622056813244411
+505,2017-07-10,5.4,"[' Leisure trip ', ' Group ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,7,0,1,0,-0.566389062982209
+506,2016-07-03,10.0,"[' Leisure trip ', ' Couple ', ' Stunning City Studio ', ' Stayed 2 nights ']",7,1,0,0,0,0,7,0,1,0,0.045813130837508875
+507,2016-07-03,8.8,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,7,0,1,0,-0.566389062982209
+508,2016-07-30,7.9,"[' Business trip ', ' Solo traveler ', ' Superior Room with Queen size bed and Sofa Bed ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",68,0,0,1,0,1,7,0,1,0,6.269868768004641
+509,2017-07-28,9.2,"[' Leisure trip ', ' Family with young children ', ' Double Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,7,0,1,0,-0.566389062982209
+510,2016-07-13,7.9,"[' Leisure trip ', ' Family with young children ', ' Standard Double Twin Room ', ' Stayed 1 night ']",1,1,0,0,1,0,7,0,1,0,-0.566389062982209
+511,2016-07-12,8.3,"[' Leisure trip ', ' Couple ', ' Double Room with Public Transport Ticket ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,7,0,1,0,-0.566389062982209
+512,2017-07-24,9.6,"[' Leisure trip ', ' Couple ', ' Double Room Insolite ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,7,0,1,0,-0.566389062982209
+513,2016-07-03,10.0,"[' Leisure trip ', ' Group ', ' Standard Double Room ', ' Stayed 1 night ']",2,1,1,0,0,0,7,0,1,0,-0.464355364012256
+514,2016-07-08,7.5,"[' Leisure trip ', ' Group ', ' Superior Room with Queensize Bed and double couch 2 adults 2 children ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,1,0,0,1,7,0,1,0,-0.26028796607235005
+515,2016-07-21,8.8,"[' Leisure trip ', ' Group ', ' Club Twin Room ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",2,1,1,0,0,1,7,0,1,0,-0.464355364012256
+516,2017-07-19,9.2,"[' Leisure trip ', ' Family with young children ', ' Standard Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,7,0,1,0,-0.566389062982209
+517,2016-07-30,10.0,"[' Leisure trip ', ' Couple ', ' Camper Room ', ' Stayed 3 nights ']",9,1,0,0,0,0,7,0,1,0,0.24988052877741485
+518,2017-07-05,10.0,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ']",2,1,0,0,0,0,7,0,1,0,-0.464355364012256
+519,2017-07-09,10.0,"[' Leisure trip ', ' Family with young children ', ' Comfort Double or Twin Room with Extra Bed ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",13,1,0,0,1,1,7,0,1,0,0.6580153246572268
+520,2016-07-05,10.0,"[' Leisure trip ', ' Group ', ' Superior Queen Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,7,0,1,0,-0.566389062982209
+521,2016-07-28,10.0,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 1 night ']",1,1,0,0,0,0,7,0,1,0,-0.566389062982209
+522,2016-07-30,9.2,"[' Solo traveler ', ' Double Guest Room ', ' Stayed 8 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,7,0,1,0,-0.566389062982209
+523,2017-07-17,8.8,"[' Business trip ', ' Solo traveler ', ' Single Room ', ' Stayed 1 night ']",3,0,0,1,0,0,7,0,1,0,-0.36232166504230306
+524,2017-07-08,10.0,"[' Leisure trip ', ' Group ', ' Triple Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,7,0,1,0,-0.566389062982209
+525,2017-07-15,9.2,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 3 nights ']",10,1,0,0,0,0,7,0,1,0,0.3519142277473678
+526,2017-07-15,9.2,"[' Leisure trip ', ' Family with young children ', ' Standard Double Room ', ' Stayed 1 night ']",3,1,0,0,1,0,7,0,1,0,-0.36232166504230306
+527,2017-07-09,8.8,"[' Leisure trip ', ' Group ', ' Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",7,1,1,0,0,1,7,0,1,0,0.045813130837508875
+528,2016-07-29,7.5,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,7,0,1,0,-0.566389062982209
+529,2017-07-13,8.8,"[' Leisure trip ', ' Couple ', ' Double Guest Room ', ' Stayed 2 nights ']",2,1,0,0,0,0,7,0,1,0,-0.464355364012256
+530,2016-07-14,5.4,"[' Leisure trip ', ' Solo traveler ', ' Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,7,0,1,0,-0.566389062982209
+531,2017-07-01,9.2,"[' Business trip ', ' Couple ', ' Standard Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",13,0,0,0,0,1,7,0,1,0,0.6580153246572268
+532,2017-07-26,10.0,"[' Leisure trip ', ' Solo traveler ', ' Double or Twin Room ', ' Stayed 6 nights ']",1,1,0,1,0,0,7,0,1,0,-0.566389062982209
+533,2017-07-31,9.6,"[' Leisure trip ', ' Couple ', ' Double or Twin Room Select ', ' Stayed 3 nights ']",9,1,0,0,0,0,7,0,1,0,0.24988052877741485
+534,2016-07-08,10.0,"[' Leisure trip ', ' Couple ', ' Premier Room with Balcony ', ' Stayed 3 nights ']",6,1,0,0,0,0,7,0,1,0,-0.05622056813244411
+535,2016-07-16,3.3,"[' Business trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,0,0,1,0,1,7,0,1,0,-0.566389062982209
+536,2016-07-03,6.3,"[' Business trip ', ' Solo traveler ', ' Standard Double Room without Window ', ' Stayed 1 night ', ' Submitted from a mobile device ']",12,0,0,1,0,1,7,0,1,0,0.5559816256872738
+537,2017-07-29,10.0,"[' Leisure trip ', ' Couple ', ' Deluxe Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,7,0,1,0,-0.26028796607235005
+538,2017-07-05,2.5,"[' Leisure trip ', ' Group ', ' Superior Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,7,0,1,0,-0.566389062982209
+539,2017-07-09,7.5,"[' Leisure trip ', ' Family with young children ', ' 2 rooms ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",6,1,0,0,1,1,7,0,1,0,-0.05622056813244411
+540,2016-07-07,10.0,"[' Leisure trip ', ' Family with older children ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,7,0,1,0,-0.464355364012256
+541,2017-07-04,5.8,"[' Business trip ', ' Solo traveler ', ' Comfort Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",19,0,0,1,0,1,7,0,1,0,1.2702175184769446
+542,2016-07-17,2.5,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 8 nights ']",1,1,0,0,0,0,7,0,1,0,-0.566389062982209
+543,2017-07-10,8.8,"[' Leisure trip ', ' Group ', ' Small Queen Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",44,1,1,0,0,1,7,0,1,0,3.821059992725769
+544,2016-07-04,8.3,"[' Leisure trip ', ' Family with older children ', ' Twin Room with Public Transport Ticket ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,7,0,1,0,-0.566389062982209
+545,2017-07-17,2.5,"[' Solo traveler ', ' Basic Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",4,0,0,1,0,1,7,0,1,0,-0.26028796607235005
+546,2017-07-06,6.7,"[' Leisure trip ', ' Couple ', ' Superior Suite with 1 Double Bed and 1 Single Bed ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,7,0,1,0,-0.566389062982209
+547,2016-07-31,6.3,"[' Leisure trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,1,0,1,7,0,1,0,-0.566389062982209
+548,2016-07-25,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe Room Barlow Wing ', ' Stayed 1 night ', ' Submitted from a mobile device ']",11,1,0,0,0,1,7,0,1,0,0.4539479267173208
+549,2017-07-11,7.9,"[' Leisure trip ', ' Couple ', ' Basic Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,7,0,1,0,-0.26028796607235005
+550,2016-07-10,6.3,"[' Business trip ', ' Solo traveler ', ' Standard Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",7,0,0,1,0,1,7,0,1,0,0.045813130837508875
+551,2016-07-26,9.2,"[' Leisure trip ', ' Couple ', ' Executive Double or Twin Room La Ravissante ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",35,1,0,0,0,1,7,0,1,0,2.902756701996192
+552,2016-07-24,8.8,"[' Family with older children ', ' Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",6,0,0,0,0,1,7,0,1,0,-0.05622056813244411
+553,2017-07-26,10.0,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ']",4,1,0,0,0,0,7,0,1,0,-0.26028796607235005
+554,2016-07-14,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room 1 2 Adults ', ' Stayed 4 nights ']",2,1,0,0,0,0,7,0,1,0,-0.464355364012256
+555,2016-07-31,10.0,"[' Leisure trip ', ' Family with older children ', ' Standard Double or Twin Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,7,0,1,0,-0.566389062982209
+556,2016-07-01,10.0,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",9,1,0,0,0,1,7,0,1,0,0.24988052877741485
+557,2017-07-31,10.0,"[' Leisure trip ', ' Couple ', ' Comfort Double or Twin Room 1 2 Adults ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,7,0,1,0,-0.566389062982209
+558,2016-07-31,10.0,"[' Couple ', ' Double Room with Sofa Bed Non Smoking ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",5,0,0,0,0,1,7,0,1,0,-0.1582542671023971
+559,2017-07-13,9.6,"[' Leisure trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 3 nights ']",17,1,0,1,0,0,7,0,1,0,1.0661501205370387
+560,2016-07-26,10.0,"[' Leisure trip ', ' Family with older children ', ' Superior Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,7,0,1,0,-0.26028796607235005
+561,2016-07-27,8.8,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,7,0,1,0,-0.464355364012256
+562,2016-07-14,10.0,"[' Leisure trip ', ' Family with young children ', ' Family Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,7,0,1,0,-0.566389062982209
+563,2017-07-05,6.3,"[' Leisure trip ', ' Family with young children ', ' Standard Double Room No Window ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,0,1,1,7,0,1,0,-0.36232166504230306
+564,2016-07-01,8.8,"[' Leisure trip ', ' Couple ', ' Standard Double Room No Window ', ' Stayed 3 nights ']",13,1,0,0,0,0,7,0,1,0,0.6580153246572268
+565,2016-07-11,7.9,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 2 nights ']",6,1,0,0,0,0,7,0,1,0,-0.05622056813244411
+566,2016-07-18,7.5,"[' Business trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 1 night ']",1,0,0,1,0,0,7,0,1,0,-0.566389062982209
+567,2017-07-06,10.0,"[' Leisure trip ', ' Family with young children ', ' Triple Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,7,0,1,0,-0.566389062982209
+568,2016-07-13,9.6,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ']",2,1,0,0,0,0,7,0,1,0,-0.464355364012256
+569,2017-07-25,9.6,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,7,0,1,0,-0.26028796607235005
+570,2017-07-16,9.6,"[' Solo traveler ', ' Double Room ', ' Stayed 13 nights ', ' Submitted from a mobile device ']",8,0,0,1,0,1,7,0,1,0,0.14784682980746186
+571,2017-07-11,8.3,"[' Leisure trip ', ' Group ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,7,0,1,0,-0.566389062982209
+572,2017-07-16,9.6,"[' Leisure trip ', ' Solo traveler ', ' 2 rooms ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,7,0,1,0,-0.566389062982209
+573,2017-07-10,8.8,"[' Leisure trip ', ' Group ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",8,1,1,0,0,1,7,0,1,0,0.14784682980746186
+574,2017-07-12,6.3,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,7,0,1,0,-0.566389062982209
+575,2017-07-22,9.6,"[' Leisure trip ', ' Couple ', ' Classic Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",11,1,0,0,0,1,7,0,1,0,0.4539479267173208
+576,2016-07-05,8.8,"[' Leisure trip ', ' Family with older children ', ' Queen Room with Two Queen Beds 4 Adults ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,7,0,1,0,-0.36232166504230306
+577,2016-07-28,7.5,"[' Business trip ', ' Group ', ' Room Selected at Check In ', ' Stayed 1 night ']",5,0,1,0,0,0,7,0,1,0,-0.1582542671023971
+578,2016-07-06,8.3,"[' Business trip ', ' Group ', ' Basic Double Room ', ' Stayed 5 nights ']",1,0,1,0,0,0,7,0,1,0,-0.566389062982209
+579,2016-07-27,5.4,"[' Leisure trip ', ' Couple ', ' King Guest Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,7,0,1,0,-0.36232166504230306
+580,2017-07-20,7.5,"[' Leisure trip ', ' Solo traveler ', ' Suite ', ' Stayed 1 night ']",7,1,0,1,0,0,7,0,1,0,0.045813130837508875
+581,2016-07-06,8.3,"[' Leisure trip ', ' Couple ', ' King Room with River View ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",12,1,0,0,0,1,7,0,1,0,0.5559816256872738
+582,2017-07-01,9.2,"[' Leisure trip ', ' Couple ', ' Superior King Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,7,0,1,0,-0.464355364012256
+583,2017-07-26,9.2,"[' Leisure trip ', ' Family with young children ', ' Deluxe One Bedroom Apartment ', ' Stayed 4 nights ']",1,1,0,0,1,0,7,0,1,0,-0.566389062982209
+584,2017-07-20,7.9,"[' Leisure trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,0,1,0,1,7,0,1,0,-0.464355364012256
+585,2016-07-10,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room with City View ', ' Stayed 2 nights ']",1,1,0,0,0,0,7,0,1,0,-0.566389062982209
+586,2017-07-10,7.9,"[' Business trip ', ' Solo traveler ', ' Single Room ', ' Stayed 1 night ']",12,0,0,1,0,0,7,0,1,0,0.5559816256872738
+587,2016-07-25,6.7,"[' Leisure trip ', ' Family with older children ', ' Double Hilton Guestroom ', ' Stayed 3 nights ']",15,1,0,0,0,0,7,0,1,0,0.8620827225971327
+588,2016-07-21,6.7,"[' Leisure trip ', ' Couple ', ' 2 rooms ', ' Stayed 1 night ']",2,1,0,0,0,0,7,0,1,0,-0.464355364012256
+589,2016-08-03,9.2,"[' Leisure trip ', ' Couple ', ' Standard Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",11,1,0,0,0,1,8,0,1,0,0.4539479267173208
+590,2017-08-01,7.1,"[' Leisure trip ', ' Travelers with friends ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",7,1,0,0,0,1,8,0,1,0,0.045813130837508875
+591,2017-08-03,6.3,"[' Leisure trip ', ' Group ', ' Classic Double Room ', ' Stayed 3 nights ']",1,1,1,0,0,0,8,0,1,0,-0.566389062982209
+592,2015-08-13,9.2,"[' Leisure trip ', ' Family with young children ', ' Superior Double Room with 1 Double Bed and 1 Sofa Bed 2 places ', ' Stayed 2 nights ']",6,1,0,0,1,0,8,0,1,0,-0.05622056813244411
+593,2016-08-21,9.2,"[' Leisure trip ', ' Couple ', ' Classic Twin Room ', ' Stayed 1 night ']",12,1,0,0,0,0,8,0,1,0,0.5559816256872738
+594,2016-08-02,6.7,"[' Leisure trip ', ' Couple ', ' Superior Queen Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,8,0,1,0,-0.464355364012256
+595,2015-08-10,9.6,"[' Leisure trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 5 nights ']",11,1,0,1,0,0,8,0,1,0,0.4539479267173208
+596,2015-08-14,9.6,"[' Leisure trip ', ' Family with young children ', ' 2 rooms ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,1,1,8,0,1,0,-0.464355364012256
+597,2016-08-28,9.2,"[' Leisure trip ', ' Family with young children ', ' Double Deluxe Room ', ' Stayed 8 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,8,0,1,0,-0.566389062982209
+598,2016-08-06,10.0,"[' Business trip ', ' Group ', ' Double Room ', ' Stayed 4 nights ']",2,0,1,0,0,0,8,0,1,0,-0.464355364012256
+599,2017-08-02,8.8,"[' Leisure trip ', ' Family with young children ', ' Executive King Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",29,1,0,0,1,1,8,0,1,0,2.2905545081764744
+600,2016-08-24,10.0,"[' Leisure trip ', ' Family with young children ', ' 2 rooms ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",19,1,0,0,1,1,8,0,1,0,1.2702175184769446
+601,2015-08-05,9.6,"[' Leisure trip ', ' Couple ', ' Deluxe King Room with Stadium View ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+602,2016-08-09,10.0,"[' Leisure trip ', ' Family with young children ', ' Junior Suite ', ' Stayed 9 nights ', ' Submitted from a mobile device ']",2,1,0,0,1,1,8,0,1,0,-0.464355364012256
+603,2016-08-28,7.5,"[' Leisure trip ', ' Group ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",30,1,1,0,0,1,8,0,1,0,2.392588207146427
+604,2015-08-30,9.6,"[' Business trip ', ' Group ', ' Superior Single Room ', ' Stayed 4 nights ']",2,0,1,0,0,0,8,0,1,0,-0.464355364012256
+605,2016-08-20,10.0,"[' Business trip ', ' Solo traveler ', ' Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,0,0,1,0,1,8,0,1,0,-0.05622056813244411
+606,2015-08-29,7.5,"[' Leisure trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 8 nights ']",1,1,0,1,0,0,8,0,1,0,-0.566389062982209
+607,2015-08-24,9.2,"[' Leisure trip ', ' Group ', ' Standard Queen Room ', ' Stayed 2 nights ']",1,1,1,0,0,0,8,0,1,0,-0.566389062982209
+608,2015-08-11,10.0,"[' Leisure trip ', ' Couple ', ' Double Queen Waterfront ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,8,0,1,0,-0.26028796607235005
+609,2015-08-10,10.0,"[' Leisure trip ', ' Couple ', ' X Ordinary Room ', ' Stayed 3 nights ']",6,1,0,0,0,0,8,0,1,0,-0.05622056813244411
+610,2016-08-02,9.2,"[' Leisure trip ', ' Family with older children ', ' Small Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",9,1,0,0,0,1,8,0,1,0,0.24988052877741485
+611,2015-08-24,10.0,"[' Leisure trip ', ' Family with older children ', ' Executive Double Room Eiffel Tower View with 1 Queensize and Sofa Bed ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,8,0,1,0,-0.464355364012256
+612,2017-08-02,10.0,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 3 nights ']",1,1,0,0,0,0,8,0,1,0,-0.566389062982209
+613,2016-08-09,9.6,"[' Leisure trip ', ' Family with young children ', ' Standard Room with 1 Double Bed and 1 Sofa Bed ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,1,1,8,0,1,0,-0.566389062982209
+614,2016-08-28,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+615,2017-08-02,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",37,1,0,0,0,1,8,0,1,0,3.106824099936098
+616,2015-08-13,10.0,"[' Leisure trip ', ' Couple ', ' Classic Double or Twin Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,8,0,1,0,-0.566389062982209
+617,2016-08-01,9.2,"[' Leisure trip ', ' Family with older children ', ' Superior Twin Room ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",8,1,0,0,0,1,8,0,1,0,0.14784682980746186
+618,2016-08-02,9.6,"[' Leisure trip ', ' Solo traveler ', ' Double Room ', ' Stayed 6 nights ']",43,1,0,1,0,0,8,0,1,0,3.719026293755816
+619,2015-08-04,7.9,"[' Leisure trip ', ' Couple ', ' Small Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",17,1,0,0,0,1,8,0,1,0,1.0661501205370387
+620,2015-08-23,9.2,"[' Leisure trip ', ' Family with young children ', ' Deluxe Suite ', ' Stayed 4 nights ']",1,1,0,0,1,0,8,0,1,0,-0.566389062982209
+621,2016-08-02,9.6,"[' Leisure trip ', ' Family with young children ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,1,1,8,0,1,0,-0.36232166504230306
+622,2015-08-12,8.3,"[' Leisure trip ', ' Solo traveler ', ' Double or Twin Room ', ' Stayed 2 nights ']",28,1,0,1,0,0,8,0,1,0,2.1885208092065214
+623,2015-08-16,9.6,"[' Leisure trip ', ' Family with young children ', ' Intuition Room ', ' Stayed 1 night ']",7,1,0,0,1,0,8,0,1,0,0.045813130837508875
+624,2015-08-31,10.0,"[' Leisure trip ', ' Family with older children ', ' Standard Double Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",8,1,0,0,0,1,8,0,1,0,0.14784682980746186
+625,2015-08-09,2.9,"[' Business trip ', ' Group ', ' Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,0,1,0,0,1,8,0,1,0,-0.566389062982209
+626,2017-08-02,8.8,"[' Leisure trip ', ' Family with young children ', ' Executive King Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",6,1,0,0,1,1,8,0,1,0,-0.05622056813244411
+627,2015-08-18,7.1,"[' Leisure trip ', ' Couple ', ' Small Double Room ', ' Stayed 2 nights ']",39,1,0,0,0,0,8,0,1,0,3.3108914978760042
+628,2016-08-04,8.8,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,8,0,1,0,-0.36232166504230306
+629,2016-08-20,9.6,"[' Business trip ', ' Solo traveler ', ' Luxury Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,0,0,1,0,1,8,0,1,0,-0.26028796607235005
+630,2015-08-27,6.7,"[' Leisure trip ', ' Family with older children ', ' Standard Triple Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,8,0,1,0,-0.36232166504230306
+631,2017-08-02,7.9,"[' Business trip ', ' Solo traveler ', ' Small Double Room ', ' Stayed 3 nights ']",5,0,0,1,0,0,8,0,1,0,-0.1582542671023971
+632,2016-08-30,9.6,"[' Leisure trip ', ' Couple ', ' Superior King Room ', ' Stayed 2 nights ']",3,1,0,0,0,0,8,0,1,0,-0.36232166504230306
+633,2015-08-15,9.6,"[' Leisure trip ', ' Family with young children ', ' Superior Twin Room ', ' Stayed 2 nights ']",3,1,0,0,1,0,8,0,1,0,-0.36232166504230306
+634,2016-08-01,10.0,"[' Leisure trip ', ' Family with older children ', ' 2 rooms ', ' Stayed 2 nights ']",1,1,0,0,0,0,8,0,1,0,-0.566389062982209
+635,2016-08-26,10.0,"[' Leisure trip ', ' Group ', ' Superior Double Room with Terrace and Private Pool ', ' Stayed 3 nights ']",1,1,1,0,0,0,8,0,1,0,-0.566389062982209
+636,2016-08-09,4.2,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",8,1,0,0,0,1,8,0,1,0,0.14784682980746186
+637,2016-08-04,9.6,"[' Leisure trip ', ' Family with older children ', ' 2 rooms ', ' Stayed 9 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+638,2016-08-03,9.6,"[' Leisure trip ', ' Group ', ' Superior Twin Room ', ' Stayed 1 night ']",2,1,1,0,0,0,8,0,1,0,-0.464355364012256
+639,2016-08-19,10.0,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 5 nights ']",44,1,0,0,0,0,8,0,1,0,3.821059992725769
+640,2016-08-27,10.0,"[' Leisure trip ', ' Family with young children ', ' Two Adjacent Rooms 6 persons ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,8,0,1,0,-0.566389062982209
+641,2015-08-11,9.6,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 3 nights ']",1,1,0,0,0,0,8,0,1,0,-0.566389062982209
+642,2015-08-16,8.3,"[' Family with young children ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",8,0,0,0,1,1,8,0,1,0,0.14784682980746186
+643,2016-08-24,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+644,2015-08-09,10.0,"[' Leisure trip ', ' Couple ', ' King Deluxe Room ', ' Stayed 2 nights ']",4,1,0,0,0,0,8,0,1,0,-0.26028796607235005
+645,2016-08-02,8.8,"[' Leisure trip ', ' Couple ', ' Superior Double Room with Terrace and Private Pool ', ' Stayed 3 nights ']",11,1,0,0,0,0,8,0,1,0,0.4539479267173208
+646,2016-08-14,10.0,"[' Leisure trip ', ' Family with older children ', ' Standard Queen Room with Sofa Bed ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+647,2016-08-04,9.2,"[' Leisure trip ', ' Family with young children ', ' Standard Double Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,8,0,1,0,-0.566389062982209
+648,2016-08-11,10.0,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,8,0,1,0,-0.464355364012256
+649,2015-08-30,9.2,"[' Leisure trip ', ' Family with young children ', ' Junior Suite with VIP Services ', ' Stayed 3 nights ']",12,1,0,0,1,0,8,0,1,0,0.5559816256872738
+650,2015-08-21,8.3,"[' Leisure trip ', ' Couple ', ' Double Room 1 2 Adults ', ' Stayed 7 nights ']",14,1,0,0,0,0,8,0,1,0,0.7600490236271797
+651,2015-08-11,7.9,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,8,0,1,0,-0.36232166504230306
+652,2016-08-23,8.3,"[' Leisure trip ', ' Family with older children ', ' Superior Queen Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,8,0,1,0,-0.464355364012256
+653,2016-08-15,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+654,2017-08-02,9.6,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+655,2016-08-08,7.5,"[' Leisure trip ', ' Couple ', ' Queen Bed Leisure ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,8,0,1,0,-0.26028796607235005
+656,2016-08-23,9.6,"[' Leisure trip ', ' Couple ', ' Junior Suite ', ' Stayed 1 night ', ' Submitted from a mobile device ']",33,1,0,0,0,1,8,0,1,0,2.6986893040562863
+657,2017-08-01,7.5,"[' Leisure trip ', ' Group ', ' Standard Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,1,0,0,1,8,0,1,0,-0.464355364012256
+658,2015-08-13,7.5,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ']",21,1,0,0,0,0,8,0,1,0,1.4742849164168506
+659,2015-08-18,9.6,"[' Leisure trip ', ' Couple ', ' Superior Double Bedroom ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+660,2016-08-09,4.6,"[' Leisure trip ', ' Couple ', ' Superior King Room ', ' Stayed 1 night ']",1,1,0,0,0,0,8,0,1,0,-0.566389062982209
+661,2016-08-30,4.2,"[' Leisure trip ', ' Group ', ' Superior Double or Twin Room 1 2 Adults ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",2,1,1,0,0,1,8,0,1,0,-0.464355364012256
+662,2016-08-09,10.0,"[' Leisure trip ', ' Family with young children ', ' 2 rooms ', ' Stayed 10 nights ', ' Submitted from a mobile device ']",5,1,0,0,1,1,8,0,1,0,-0.1582542671023971
+663,2016-08-06,9.6,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",7,1,0,0,0,1,8,0,1,0,0.045813130837508875
+664,2016-08-14,7.9,"[' Leisure trip ', ' Couple ', ' Standard Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,8,0,1,0,-0.26028796607235005
+665,2015-08-25,6.7,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+666,2017-08-02,10.0,"[' Family with young children ', ' Twin Guest Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,0,0,0,1,1,8,0,1,0,-0.566389062982209
+667,2016-08-24,9.2,"[' Business trip ', ' Couple ', ' Classic Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,0,0,0,0,1,8,0,1,0,-0.566389062982209
+668,2016-08-01,7.1,"[' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",12,0,0,0,0,1,8,0,1,0,0.5559816256872738
+669,2016-08-20,8.8,"[' Leisure trip ', ' Family with young children ', ' Standard Double or Twin Room ', ' Stayed 3 nights ']",25,1,0,0,1,0,8,0,1,0,1.8824197122966624
+670,2016-08-12,2.5,"[' Leisure trip ', ' Family with older children ', ' 3 rooms ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+671,2015-08-29,4.6,"[' With a pet ', ' Leisure trip ', ' Family with older children ', ' Quintuple Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,0,0,0,1,8,0,1,0,-0.26028796607235005
+672,2016-08-03,9.6,"[' Leisure trip ', ' Family with young children ', ' Superior Twin Room with Two Double Beds ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,1,0,0,1,1,8,0,1,0,-0.05622056813244411
+673,2015-08-29,6.3,"[' Business trip ', ' Couple ', ' Double Room with Garden View ', ' Stayed 1 night ', ' Submitted from a mobile device ']",11,0,0,0,0,1,8,0,1,0,0.4539479267173208
+674,2016-08-08,9.6,"[' Leisure trip ', ' Group ', ' Two Connecting Basic Rooms ', ' Stayed 1 night ']",14,1,1,0,0,0,8,0,1,0,0.7600490236271797
+675,2016-08-17,9.2,"[' Leisure trip ', ' Family with young children ', ' Classic Double Room ', ' Stayed 1 night ']",1,1,0,0,1,0,8,0,1,0,-0.566389062982209
+676,2016-08-04,7.1,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,8,0,1,0,-0.36232166504230306
+677,2015-08-06,7.5,"[' Leisure trip ', ' Family with young children ', ' King Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",7,1,0,0,1,1,8,0,1,0,0.045813130837508875
+678,2016-08-27,9.6,"[' Business trip ', ' Solo traveler ', ' Double Room with Street View ', ' Stayed 1 night ']",13,0,0,1,0,0,8,0,1,0,0.6580153246572268
+679,2016-08-02,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 4 nights ']",1,1,0,0,0,0,8,0,1,0,-0.566389062982209
+680,2016-08-12,10.0,"[' Solo traveler ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,0,0,1,0,1,8,0,1,0,-0.566389062982209
+681,2016-08-24,8.8,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 6 nights ']",2,1,0,0,0,0,8,0,1,0,-0.464355364012256
+682,2016-08-02,7.1,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 3 nights ']",8,1,0,0,0,0,8,0,1,0,0.14784682980746186
+683,2016-08-30,7.5,"[' Leisure trip ', ' Couple ', ' Executive Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,8,0,1,0,-0.464355364012256
+684,2016-08-25,8.3,"[' Couple ', ' Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",13,0,0,0,0,1,8,0,1,0,0.6580153246572268
+685,2016-08-09,8.8,"[' Leisure trip ', ' Family with older children ', ' Standard Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,8,0,1,0,-0.566389062982209
+686,2016-08-28,9.6,"[' Leisure trip ', ' Family with older children ', ' Superior King or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",42,1,0,0,0,1,8,0,1,0,3.616992594785863
+687,2015-09-28,10.0,"[' Leisure trip ', ' Family with young children ', ' Executive King Room with Sofa Bed Non Smoking ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,1,1,9,0,0,1,-0.566389062982209
+688,2016-09-22,7.1,"[' Business trip ', ' Solo traveler ', ' Comfort Single Room ', ' Stayed 3 nights ']",11,0,0,1,0,0,9,0,0,1,0.4539479267173208
+689,2015-09-10,8.8,"[' Leisure trip ', ' Family with older children ', ' Triple Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",31,1,0,0,0,1,9,0,0,1,2.49462190611638
+690,2016-09-01,7.5,"[' Business trip ', ' Group ', ' Double or Twin Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",1,0,1,0,0,1,9,0,0,1,-0.566389062982209
+691,2016-09-06,10.0,"[' Leisure trip ', ' Solo traveler ', ' Standard Room with 1 Double Bed ', ' Stayed 1 night ']",1,1,0,1,0,0,9,0,0,1,-0.566389062982209
+692,2016-09-20,6.3,"[' Business trip ', ' Couple ', ' Standard Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,0,0,0,0,1,9,0,0,1,-0.566389062982209
+693,2015-09-12,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,9,0,0,1,-0.566389062982209
+694,2015-09-21,8.8,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room with Balcony Non Smoking ', ' Stayed 1 night ', ' Submitted from a mobile device ']",18,1,0,0,0,1,9,0,0,1,1.1681838195069916
+695,2016-09-26,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,9,0,0,1,-0.464355364012256
+696,2015-09-27,7.9,"[' Leisure trip ', ' Couple ', ' Deluxe King Room with Stadium View ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,9,0,0,1,-0.464355364012256
+697,2015-09-10,6.3,"[' Business trip ', ' Solo traveler ', ' King Room ', ' Stayed 1 night ']",1,0,0,1,0,0,9,0,0,1,-0.566389062982209
+698,2016-09-16,5.4,"[' Leisure trip ', ' Group ', ' 2 rooms ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,9,0,0,1,-0.566389062982209
+699,2016-09-30,9.2,"[' Leisure trip ', ' Couple ', ' Double or Twin Room 2 Adults ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,9,0,0,1,-0.464355364012256
+700,2015-09-17,9.6,"[' Family with young children ', ' Superior Queen Suite with Sofa ', ' Stayed 14 nights ', ' Submitted from a mobile device ']",2,0,0,0,1,1,9,0,0,1,-0.464355364012256
+701,2016-09-21,9.6,"[' Leisure trip ', ' Couple ', ' Premier Double Room ', ' Stayed 1 night ']",12,1,0,0,0,0,9,0,0,1,0.5559816256872738
+702,2015-09-15,8.8,"[' Leisure trip ', ' Couple ', ' Standard Double Room with Park View ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,9,0,0,1,-0.36232166504230306
+703,2015-09-20,7.9,"[' Leisure trip ', ' Family with older children ', ' Suite 5 Adults ', ' Stayed 3 nights ']",9,1,0,0,0,0,9,0,0,1,0.24988052877741485
+704,2016-09-20,6.3,"[' Leisure trip ', ' Family with young children ', ' Deluxe King Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,9,0,0,1,-0.566389062982209
+705,2016-09-18,10.0,"[' Leisure trip ', ' Couple ', ' Twin Room Non Smoking ', ' Stayed 2 nights ']",1,1,0,0,0,0,9,0,0,1,-0.566389062982209
+706,2016-09-23,8.3,"[' Leisure trip ', ' Couple ', ' Basic Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",8,1,0,0,0,1,9,0,0,1,0.14784682980746186
+707,2015-09-13,7.5,"[' Leisure trip ', ' Group ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,9,0,0,1,-0.566389062982209
+708,2016-09-28,10.0,"[' Leisure trip ', ' Couple ', ' Superior Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,9,0,0,1,-0.464355364012256
+709,2016-09-05,9.2,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room with Spa Access ', ' Stayed 2 nights ']",1,1,0,0,0,0,9,0,0,1,-0.566389062982209
+710,2015-09-06,8.8,"[' Leisure trip ', ' Family with young children ', ' Club Twin Room ', ' Stayed 9 nights ', ' Submitted from a mobile device ']",4,1,0,0,1,1,9,0,0,1,-0.26028796607235005
+711,2016-09-07,9.6,"[' Leisure trip ', ' Couple ', ' Small Queen Room ', ' Stayed 2 nights ']",51,1,0,0,0,0,9,0,0,1,4.53529588551544
+712,2016-09-27,7.9,"[' Leisure trip ', ' Solo traveler ', ' Double or Twin Room ', ' Stayed 2 nights ']",3,1,0,1,0,0,9,0,0,1,-0.36232166504230306
+713,2015-09-09,5.8,"[' Business trip ', ' Solo traveler ', ' Superior Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",8,0,0,1,0,1,9,0,0,1,0.14784682980746186
+714,2016-09-20,10.0,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ']",6,1,0,0,0,0,9,0,0,1,-0.05622056813244411
+715,2015-09-13,10.0,"[' Business trip ', ' Solo traveler ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,0,0,1,0,1,9,0,0,1,-0.26028796607235005
+716,2016-09-19,8.8,"[' Leisure trip ', ' Family with young children ', ' Triple Room ', ' Stayed 1 night ']",4,1,0,0,1,0,9,0,0,1,-0.26028796607235005
+717,2015-09-15,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe Double with Winter Garden View ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,9,0,0,1,-0.566389062982209
+718,2016-09-30,4.2,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room with Balcony ', ' Stayed 1 night ']",3,1,0,0,0,0,9,0,0,1,-0.36232166504230306
+719,2016-09-15,10.0,"[' Leisure trip ', ' Family with young children ', ' Standard Studio ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",8,1,0,0,1,1,9,0,0,1,0.14784682980746186
+720,2016-09-18,3.8,"[' Leisure trip ', ' Group ', ' Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,9,0,0,1,-0.566389062982209
+721,2015-09-01,10.0,"[' Leisure trip ', ' Family with young children ', ' Superior Room with Queensize Bed and double couch 2 adults 2 children ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,9,0,0,1,-0.566389062982209
+722,2016-09-06,2.9,"[' Leisure trip ', ' Solo traveler ', ' Standard Double Room without Window ', ' Stayed 1 night ']",1,1,0,1,0,0,9,0,0,1,-0.566389062982209
+723,2016-09-24,8.0,"[' Leisure trip ', ' Family with older children ', ' Small Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",12,1,0,0,0,1,9,0,0,1,0.5559816256872738
+724,2015-09-10,6.7,"[' Business trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",13,0,0,1,0,1,9,0,0,1,0.6580153246572268
+725,2016-09-29,9.2,"[' Leisure trip ', ' Couple ', ' Suite ', ' Stayed 5 nights ']",13,1,0,0,0,0,9,0,0,1,0.6580153246572268
+726,2016-09-01,10.0,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,9,0,0,1,-0.26028796607235005
+727,2016-09-19,10.0,"[' Leisure trip ', ' Couple ', ' Twin Guest Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,9,0,0,1,-0.36232166504230306
+728,2016-09-05,7.9,"[' Leisure trip ', ' Family with young children ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,1,1,9,0,0,1,-0.566389062982209
+729,2016-09-29,10.0,"[' Business trip ', ' Couple ', ' Deluxe Double Room with Private Access to Pool and Spa ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",2,0,0,0,0,1,9,0,0,1,-0.464355364012256
+730,2015-09-01,5.4,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",7,1,0,0,0,1,9,0,0,1,0.045813130837508875
+731,2016-09-18,8.3,"[' Business trip ', ' Solo traveler ', ' Standard Single Room ', ' Stayed 5 nights ']",23,0,0,1,0,0,9,0,0,1,1.6783523143567565
+732,2016-09-09,7.9,"[' Business trip ', ' Solo traveler ', ' Deluxe King Room ', ' Stayed 2 nights ']",15,0,0,1,0,0,9,0,0,1,0.8620827225971327
+733,2015-09-01,9.2,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,9,0,0,1,-0.36232166504230306
+734,2016-09-15,9.2,"[' Leisure trip ', ' Family with young children ', ' Quality Double or Twin Room ', ' Stayed 1 night ']",21,1,0,0,1,0,9,0,0,1,1.4742849164168506
+735,2015-09-06,10.0,"[' Business trip ', ' Solo traveler ', ' Classic Twin Room ', ' Stayed 1 night ']",10,0,0,1,0,0,9,0,0,1,0.3519142277473678
+736,2015-09-03,9.6,"[' Couple ', ' Deluxe Double or Twin Room ', ' Stayed 2 nights ']",55,0,0,0,0,0,9,0,0,1,4.9434306813952515
+737,2016-09-03,9.6,"[' Leisure trip ', ' Group ', ' Superior Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,9,0,0,1,-0.566389062982209
+738,2015-09-15,8.3,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,1,0,0,0,1,9,0,0,1,-0.05622056813244411
+739,2015-09-22,9.6,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 1 night ']",1,1,0,0,0,0,9,0,0,1,-0.566389062982209
+740,2016-09-24,6.7,"[' Leisure trip ', ' Solo traveler ', ' Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,9,0,0,1,-0.566389062982209
+741,2015-09-08,8.3,"[' Business trip ', ' Family with young children ', ' Superior Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",3,0,0,0,1,1,9,0,0,1,-0.36232166504230306
+742,2016-09-03,10.0,"[' Leisure trip ', ' Solo traveler ', ' Superior Queen Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,0,1,0,1,9,0,0,1,-0.464355364012256
+743,2016-09-15,7.9,"[' Leisure trip ', ' Family with young children ', ' Double or Twin Room with Extra Bed ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,9,0,0,1,-0.566389062982209
+744,2016-09-20,10.0,"[' Leisure trip ', ' Travelers with friends ', ' 2 rooms ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,9,0,0,1,-0.26028796607235005
+745,2015-09-06,8.3,"[' Leisure trip ', ' Couple ', ' Compact Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,9,0,0,1,-0.566389062982209
+746,2015-09-17,6.7,"[' Business trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",5,0,0,1,0,1,9,0,0,1,-0.1582542671023971
+747,2015-09-11,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,9,0,0,1,-0.566389062982209
+748,2015-09-22,9.6,"[' Leisure trip ', ' Group ', ' Superior Double Room ', ' Stayed 1 night ']",3,1,1,0,0,0,9,0,0,1,-0.36232166504230306
+749,2015-09-01,10.0,"[' Leisure trip ', ' Solo traveler ', ' Double or Twin Room 1 2 Adults ', ' Stayed 1 night ']",32,1,0,1,0,0,9,0,0,1,2.596655605086333
+750,2015-09-08,6.3,"[' Leisure trip ', ' Family with older children ', ' Superior Premium Room with Queen Bed Sofa ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,9,0,0,1,-0.26028796607235005
+751,2015-09-18,7.1,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",23,1,0,0,0,1,9,0,0,1,1.6783523143567565
+752,2016-09-18,8.3,"[' Leisure trip ', ' Couple ', ' Double Room with View ', ' Stayed 7 nights ']",3,1,0,0,0,0,9,0,0,1,-0.36232166504230306
+753,2016-09-12,7.5,"[' Leisure trip ', ' Couple ', ' Art King Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,9,0,0,1,-0.1582542671023971
+754,2016-09-01,10.0,"[' Leisure trip ', ' Family with young children ', ' Superior Double Room with View Non Smoking ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",12,1,0,0,1,1,9,0,0,1,0.5559816256872738
+755,2016-09-12,6.7,"[' Leisure trip ', ' Solo traveler ', ' Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,0,1,0,1,9,0,0,1,-0.26028796607235005
+756,2016-09-25,10.0,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,9,0,0,1,-0.36232166504230306
+757,2015-09-14,10.0,"[' Leisure trip ', ' Family with older children ', ' Superior Double or Twin Room ', ' Stayed 3 nights ']",4,1,0,0,0,0,9,0,0,1,-0.26028796607235005
+758,2016-09-16,3.3,"[' Leisure trip ', ' Couple ', ' Classic Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",6,1,0,0,0,1,9,0,0,1,-0.05622056813244411
+759,2015-09-01,7.5,"[' Leisure trip ', ' Couple ', ' Standard Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,9,0,0,1,-0.464355364012256
+760,2016-09-22,9.6,"[' Business trip ', ' Solo traveler ', ' Junior Double ', ' Stayed 1 night ']",1,0,0,1,0,0,9,0,0,1,-0.566389062982209
+761,2016-09-27,9.6,"[' Leisure trip ', ' Family with young children ', ' Standard Room with Spa access ', ' Stayed 21 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,9,0,0,1,-0.566389062982209
+762,2016-09-27,9.6,"[' Business trip ', ' Solo traveler ', ' Classic Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,0,0,1,0,1,9,0,0,1,-0.36232166504230306
+763,2016-09-15,9.2,"[' Leisure trip ', ' Couple ', ' Double or Twin Room with City View ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,9,0,0,1,-0.1582542671023971
+764,2015-09-27,2.5,"[' Business trip ', ' Solo traveler ', ' Single Room with Shared Bathroom ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,0,0,1,0,1,9,0,0,1,-0.36232166504230306
+765,2015-09-01,10.0,"[' Leisure trip ', ' Couple ', ' Double Room 2 Adults ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,9,0,0,1,-0.566389062982209
+766,2016-09-15,7.9,"[' Leisure trip ', ' Group ', ' Standard Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,9,0,0,1,-0.566389062982209
+767,2016-09-15,6.3,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ']",3,1,0,0,0,0,9,0,0,1,-0.36232166504230306
+768,2016-09-20,10.0,"[' Leisure trip ', ' Family with young children ', ' Classic Family Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",3,1,0,0,1,1,9,0,0,1,-0.36232166504230306
+769,2015-10-02,9.5,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room with Spa Access ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,10,0,0,1,-0.26028796607235005
+770,2016-10-03,9.2,"[' Business trip ', ' Solo traveler ', ' Deluxe Double ', ' Stayed 1 night ']",1,0,0,1,0,0,10,0,0,1,-0.566389062982209
+771,2016-10-04,6.7,"[' Leisure trip ', ' Group ', ' Standard Double Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,10,0,0,1,-0.566389062982209
+772,2015-10-18,9.6,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,10,0,0,1,-0.464355364012256
+773,2016-10-21,7.1,"[' Business trip ', ' Couple ', ' Club Double Room ', ' Stayed 1 night ']",10,0,0,0,0,0,10,0,0,1,0.3519142277473678
+774,2016-10-17,8.8,"[' Business trip ', ' Solo traveler ', ' Standard Room ', ' Stayed 1 night ']",4,0,0,1,0,0,10,0,0,1,-0.26028796607235005
+775,2016-10-20,8.8,"[' Leisure trip ', ' Family with young children ', ' Triple Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",13,1,0,0,1,1,10,0,0,1,0.6580153246572268
+776,2015-10-12,10.0,"[' Leisure trip ', ' Group ', ' 2 rooms ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,1,0,0,1,10,0,0,1,-0.36232166504230306
+777,2015-10-31,9.6,"[' Business trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,10,0,0,1,-0.566389062982209
+778,2015-10-05,5.4,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",10,1,0,0,0,1,10,0,0,1,0.3519142277473678
+779,2015-10-24,8.8,"[' Leisure trip ', ' Family with older children ', ' Deluxe Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+780,2016-10-31,10.0,"[' Leisure trip ', ' Group ', ' Superior King Room ', ' Stayed 2 nights ']",2,1,1,0,0,0,10,0,0,1,-0.464355364012256
+781,2015-10-17,7.5,"[' Leisure trip ', ' Group ', ' Deluxe Double or Twin Room ', ' Stayed 1 night ']",6,1,1,0,0,0,10,0,0,1,-0.05622056813244411
+782,2015-10-27,10.0,"[' Leisure trip ', ' Couple ', ' City King Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+783,2016-10-12,7.9,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ']",3,1,0,0,0,0,10,0,0,1,-0.36232166504230306
+784,2016-10-31,8.3,"[' Leisure trip ', ' Couple ', ' Queen Guest Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+785,2015-10-04,9.2,"[' Leisure trip ', ' Group ', ' Double or Twin Room ', ' Stayed 4 nights ']",4,1,1,0,0,0,10,0,0,1,-0.26028796607235005
+786,2015-10-11,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",9,1,0,0,0,1,10,0,0,1,0.24988052877741485
+787,2016-10-16,9.6,"[' Business trip ', ' Solo traveler ', ' Superior Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,10,0,0,1,-0.566389062982209
+788,2015-10-11,9.6,"[' Family with older children ', ' Triple Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,0,0,0,0,1,10,0,0,1,-0.566389062982209
+789,2016-10-21,7.1,"[' Business trip ', ' Solo traveler ', ' King Guest Room ', ' Stayed 3 nights ']",126,0,0,1,0,0,10,0,0,1,12.187823308261914
+790,2016-10-31,10.0,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",7,1,0,0,0,1,10,0,0,1,0.045813130837508875
+791,2015-10-21,9.6,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,10,0,0,1,-0.464355364012256
+792,2016-10-18,8.3,"[' Leisure trip ', ' Couple ', ' Standard Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+793,2015-10-11,7.5,"[' Business trip ', ' Solo traveler ', ' Single Room ', ' Stayed 1 night ']",3,0,0,1,0,0,10,0,0,1,-0.36232166504230306
+794,2016-10-02,7.1,"[' Leisure trip ', ' Group ', ' Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",5,1,1,0,0,1,10,0,0,1,-0.1582542671023971
+795,2015-10-08,10.0,"[' Leisure trip ', ' Couple ', ' Classic Double or Twin Room ', ' Stayed 6 nights ']",3,1,0,0,0,0,10,0,0,1,-0.36232166504230306
+796,2015-10-29,7.5,"[' Leisure trip ', ' Couple ', ' Queen Room Non Smoking ', ' Stayed 1 night ']",3,1,0,0,0,0,10,0,0,1,-0.36232166504230306
+797,2015-10-08,6.7,"[' Business trip ', ' Solo traveler ', ' Deluxe Double Room ', ' Stayed 1 night ']",14,0,0,1,0,0,10,0,0,1,0.7600490236271797
+798,2016-10-12,2.5,"[' Business trip ', ' Solo traveler ', ' Standard Double Room without Window ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,0,0,1,0,1,10,0,0,1,-0.464355364012256
+799,2016-10-29,7.9,"[' Business trip ', ' Family with young children ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,0,0,0,1,1,10,0,0,1,-0.464355364012256
+800,2016-10-25,10.0,"[' Leisure trip ', ' Group ', ' Superior Twin Room ', ' Stayed 3 nights ']",2,1,1,0,0,0,10,0,0,1,-0.464355364012256
+801,2016-10-24,9.2,"[' Leisure trip ', ' Couple ', ' Superior Queen Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+802,2015-10-08,9.6,"[' Leisure trip ', ' Couple ', ' Classic King Twin Room ', ' Stayed 4 nights ']",2,1,0,0,0,0,10,0,0,1,-0.464355364012256
+803,2015-10-07,4.2,"[' Leisure trip ', ' Group ', ' Superior Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,10,0,0,1,-0.566389062982209
+804,2015-10-23,9.6,"[' Leisure trip ', ' Family with older children ', ' Executive Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",12,1,0,0,0,1,10,0,0,1,0.5559816256872738
+805,2016-10-27,9.2,"[' Leisure trip ', ' Family with young children ', ' Classic Adjacent Rooms ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,1,0,0,1,1,10,0,0,1,-0.05622056813244411
+806,2016-10-30,9.6,"[' Leisure trip ', ' Solo traveler ', ' Deluxe King Room ', ' Stayed 1 night ']",14,1,0,1,0,0,10,0,0,1,0.7600490236271797
+807,2016-10-01,7.1,"[' Business trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 9 nights ']",2,0,0,1,0,0,10,0,0,1,-0.464355364012256
+808,2015-10-20,6.3,"[' Leisure trip ', ' Group ', ' Family Room ', ' Stayed 2 nights ']",1,1,1,0,0,0,10,0,0,1,-0.566389062982209
+809,2015-10-13,8.3,"[' Business trip ', ' Solo traveler ', ' Twin Room ', ' Stayed 3 nights ']",1,0,0,1,0,0,10,0,0,1,-0.566389062982209
+810,2016-10-25,9.2,"[' Leisure trip ', ' Couple ', ' Standard ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,10,0,0,1,-0.464355364012256
+811,2016-10-17,10.0,"[' Leisure trip ', ' Solo traveler ', ' Double Room with River View ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,10,0,0,1,-0.566389062982209
+812,2016-10-23,7.9,"[' Leisure trip ', ' Family with older children ', ' Deluxe Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,1,0,0,0,1,10,0,0,1,-0.05622056813244411
+813,2016-10-24,6.7,"[' Leisure trip ', ' Group ', ' Standard Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",7,1,1,0,0,1,10,0,0,1,0.045813130837508875
+814,2016-10-31,6.3,"[' Leisure trip ', ' Solo traveler ', ' Classic Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",19,1,0,1,0,1,10,0,0,1,1.2702175184769446
+815,2016-10-12,8.3,"[' Business trip ', ' Solo traveler ', ' Single Room ', ' Stayed 2 nights ']",3,0,0,1,0,0,10,0,0,1,-0.36232166504230306
+816,2015-10-03,9.6,"[' Leisure trip ', ' Couple ', ' Standard Room ', ' Stayed 2 nights ']",2,1,0,0,0,0,10,0,0,1,-0.464355364012256
+817,2016-10-25,10.0,"[' Leisure trip ', ' Group ', ' Premier Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",11,1,1,0,0,1,10,0,0,1,0.4539479267173208
+818,2016-10-02,9.2,"[' Leisure trip ', ' Group ', ' Superior Double or Twin Room with Terrace ', ' Stayed 3 nights ']",2,1,1,0,0,0,10,0,0,1,-0.464355364012256
+819,2015-10-25,9.2,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+820,2015-10-22,9.6,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",8,1,0,0,0,1,10,0,0,1,0.14784682980746186
+821,2016-10-09,9.6,"[' Leisure trip ', ' Group ', ' Executive Junior Suite ', ' Stayed 4 nights ']",1,1,1,0,0,0,10,0,0,1,-0.566389062982209
+822,2015-10-29,7.1,"[' Leisure trip ', ' Couple ', ' Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+823,2016-10-20,6.7,"[' Business trip ', ' Solo traveler ', ' Standard Single Room ', ' Stayed 1 night ']",6,0,0,1,0,0,10,0,0,1,-0.05622056813244411
+824,2016-10-21,9.2,"[' Leisure trip ', ' Group ', ' Superior Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,1,0,0,1,10,0,0,1,-0.36232166504230306
+825,2016-10-06,9.6,"[' Business trip ', ' Solo traveler ', ' Double Room Luxury XXL King size bed ', ' Stayed 1 night ']",8,0,0,1,0,0,10,0,0,1,0.14784682980746186
+826,2016-10-09,8.8,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,10,0,0,1,-0.464355364012256
+827,2016-10-17,7.5,"[' Leisure trip ', ' Couple ', ' Deluxe Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+828,2015-10-13,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 3 nights ']",4,1,0,0,0,0,10,0,0,1,-0.26028796607235005
+829,2016-10-22,10.0,"[' Leisure trip ', ' Solo traveler ', ' Standard Room with Queen Bed ', ' Stayed 1 night ']",24,1,0,1,0,0,10,0,0,1,1.7803860133267093
+830,2016-10-24,7.1,"[' Leisure trip ', ' Solo traveler ', ' Standard Double Twin Room ', ' Stayed 1 night ']",1,1,0,1,0,0,10,0,0,1,-0.566389062982209
+831,2016-10-19,9.6,"[' Leisure trip ', ' Group ', ' Triple Hilton Family Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,1,0,0,1,10,0,0,1,-0.26028796607235005
+832,2016-10-10,8.8,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+833,2016-10-14,7.5,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 3 nights ']",7,1,0,0,0,0,10,0,0,1,0.045813130837508875
+834,2016-10-26,10.0,"[' Leisure trip ', ' Solo traveler ', ' Deluxe Double or Twin Room 2 adults 1 child ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,10,0,0,1,-0.566389062982209
+835,2016-10-02,8.8,"[' Leisure trip ', ' Solo traveler ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,1,0,1,10,0,0,1,-0.464355364012256
+836,2016-10-27,9.6,"[' Business trip ', ' Solo traveler ', ' Classic Double Room ', ' Stayed 1 night ']",1,0,0,1,0,0,10,0,0,1,-0.566389062982209
+837,2016-10-02,10.0,"[' Leisure trip ', ' Couple ', ' Deluxe King Room with City View ', ' Stayed 1 night ', ' Submitted from a mobile device ']",10,1,0,0,0,1,10,0,0,1,0.3519142277473678
+838,2016-10-10,9.2,"[' Leisure trip ', ' Couple ', ' Double Guest Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",5,1,0,0,0,1,10,0,0,1,-0.1582542671023971
+839,2015-10-17,9.2,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",7,1,0,0,0,1,10,0,0,1,0.045813130837508875
+840,2016-10-26,7.9,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+841,2015-10-11,7.1,"[' Business trip ', ' Solo traveler ', ' Queen Room Non Smoking ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,0,0,1,0,1,10,0,0,1,-0.36232166504230306
+842,2015-10-02,8.8,"[' Leisure trip ', ' Couple ', ' Deluxe Double or Twin Room ', ' Stayed 6 nights ']",1,1,0,0,0,0,10,0,0,1,-0.566389062982209
+843,2015-10-15,10.0,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 4 nights ']",10,1,0,0,0,0,10,0,0,1,0.3519142277473678
+844,2015-10-24,9.6,"[' Leisure trip ', ' Solo traveler ', ' Studio ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,1,0,1,10,0,0,1,-0.566389062982209
+845,2016-10-01,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+846,2016-10-14,8.3,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,10,0,0,1,-0.566389062982209
+847,2015-10-05,9.2,"[' Business trip ', ' Solo traveler ', ' Superior Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,0,0,1,0,1,10,0,0,1,-0.26028796607235005
+848,2015-10-05,10.0,"[' Leisure trip ', ' Couple ', ' Deluxe Double ', ' Stayed 1 night ']",1,1,0,0,0,0,10,0,0,1,-0.566389062982209
+849,2015-10-04,2.5,"[' Business trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 1 night ']",6,0,0,1,0,0,10,0,0,1,-0.05622056813244411
+850,2016-10-04,9.6,"[' Leisure trip ', ' Group ', ' Superior Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",20,1,1,0,0,1,10,0,0,1,1.3722512174468977
+851,2016-10-14,8.3,"[' Leisure trip ', ' Group ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",38,1,1,0,0,1,10,0,0,1,3.208857798906051
+852,2016-10-19,10.0,"[' Leisure trip ', ' Family with young children ', ' Deluxe Double or Twin Room ', ' Stayed 2 nights ']",2,1,0,0,1,0,10,0,0,1,-0.464355364012256
+853,2016-10-16,9.6,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,1,0,0,0,1,10,0,0,1,-0.36232166504230306
+854,2015-11-05,8.8,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ']",8,1,0,0,0,0,11,0,0,1,0.14784682980746186
+855,2016-11-14,7.1,"[' Family with young children ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",3,0,0,0,1,1,11,0,0,1,-0.36232166504230306
+856,2016-11-05,5.0,"[' Solo traveler ', ' Standard Twin Room ', ' Stayed 8 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,11,0,0,1,-0.566389062982209
+857,2016-11-20,8.3,"[' Leisure trip ', ' Group ', ' Twin Room Non Smoking ', ' Stayed 1 night ']",3,1,1,0,0,0,11,0,0,1,-0.36232166504230306
+858,2015-11-24,8.8,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",8,1,0,0,0,1,11,0,0,1,0.14784682980746186
+859,2015-11-10,5.4,"[' Leisure trip ', ' Family with older children ', ' Junior Suite ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,11,0,0,1,-0.566389062982209
+860,2015-11-22,7.5,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",13,1,0,0,0,1,11,0,0,1,0.6580153246572268
+861,2016-11-12,7.1,"[' Business trip ', ' Solo traveler ', ' Classic Double or Twin Room ', ' Stayed 2 nights ']",3,0,0,1,0,0,11,0,0,1,-0.36232166504230306
+862,2016-11-14,6.3,"[' Business trip ', ' Solo traveler ', ' Standard Queen Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,0,0,1,0,1,11,0,0,1,-0.464355364012256
+863,2015-11-22,10.0,"[' Leisure trip ', ' Family with older children ', ' Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,11,0,0,1,-0.26028796607235005
+864,2016-11-27,9.6,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",10,1,0,0,0,1,11,0,0,1,0.3519142277473678
+865,2015-11-29,7.5,"[' Leisure trip ', ' Family with older children ', ' Family Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,11,0,0,1,-0.566389062982209
+866,2015-11-11,9.6,"[' Business trip ', ' Solo traveler ', ' Executive Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",22,0,0,1,0,1,11,0,0,1,1.5763186153868036
+867,2016-11-23,9.2,"[' Leisure trip ', ' Group ', ' Classic Double or Twin Room ', ' Stayed 5 nights ']",8,1,1,0,0,0,11,0,0,1,0.14784682980746186
+868,2015-11-02,7.9,"[' Business trip ', ' Solo traveler ', ' Deluxe Queen Room ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",1,0,0,1,0,1,11,0,0,1,-0.566389062982209
+869,2016-11-20,10.0,"[' Leisure trip ', ' Couple ', ' Classic Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,11,0,0,1,-0.1582542671023971
+870,2015-11-16,7.5,"[' Leisure trip ', ' Solo traveler ', ' Deluxe Double Room ', ' Stayed 1 night ']",5,1,0,1,0,0,11,0,0,1,-0.1582542671023971
+871,2016-11-27,7.1,"[' Leisure trip ', ' Couple ', ' Twin Hilton Guest Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,0,1,11,0,0,1,-0.464355364012256
+872,2016-11-06,5.4,"[' Leisure trip ', ' Group ', ' Standard Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,1,0,0,1,11,0,0,1,-0.566389062982209
+873,2015-11-27,9.6,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",39,1,0,0,0,1,11,0,0,1,3.3108914978760042
+874,2016-11-02,10.0,"[' Business trip ', ' Solo traveler ', ' Superior Shard King ', ' Stayed 1 night ']",1,0,0,1,0,0,11,0,0,1,-0.566389062982209
+875,2016-11-04,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 2 nights ']",2,1,0,0,0,0,11,0,0,1,-0.464355364012256
+876,2015-11-21,6.7,"[' Business trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 1 night ']",3,0,0,1,0,0,11,0,0,1,-0.36232166504230306
+877,2016-11-19,10.0,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 1 night ']",1,1,0,0,0,0,11,0,0,1,-0.566389062982209
+878,2016-11-03,8.3,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 3 nights ']",10,1,0,0,0,0,11,0,0,1,0.3519142277473678
+879,2015-11-26,9.2,"[' Leisure trip ', ' Couple ', ' Deluxe King Room ', ' Stayed 1 night ']",2,1,0,0,0,0,11,0,0,1,-0.464355364012256
+880,2015-11-07,5.8,"[' Business trip ', ' Solo traveler ', ' Executive Double Room ', ' Stayed 2 nights ']",9,0,0,1,0,0,11,0,0,1,0.24988052877741485
+881,2016-11-06,10.0,"[' Leisure trip ', ' Travelers with friends ', ' Single Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",20,1,0,0,0,1,11,0,0,1,1.3722512174468977
+882,2015-11-05,7.5,"[' Leisure trip ', ' Couple ', ' Club Double Room ', ' Stayed 5 nights ']",27,1,0,0,0,0,11,0,0,1,2.0864871102365683
+883,2015-11-03,7.5,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 3 nights ']",1,1,0,0,0,0,11,0,0,1,-0.566389062982209
+884,2016-11-09,5.8,"[' Business trip ', ' Solo traveler ', ' Standard Single Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",4,0,0,1,0,1,11,0,0,1,-0.26028796607235005
+885,2015-11-02,9.6,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 2 nights ']",12,1,0,0,0,0,11,0,0,1,0.5559816256872738
+886,2016-11-21,7.5,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,11,0,0,1,-0.566389062982209
+887,2015-11-01,8.8,"[' Leisure trip ', ' Couple ', ' Deluxe Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",14,1,0,0,0,1,11,0,0,1,0.7600490236271797
+888,2016-11-13,7.1,"[' Leisure trip ', ' Family with young children ', ' Twin Hilton Guest Room ', ' Stayed 3 nights ']",4,1,0,0,1,0,11,0,0,1,-0.26028796607235005
+889,2015-11-09,9.6,"[' Leisure trip ', ' Solo traveler ', ' Standard ', ' Stayed 1 night ']",1,1,0,1,0,0,11,0,0,1,-0.566389062982209
+890,2015-11-04,7.9,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,11,0,0,1,-0.464355364012256
+891,2015-11-22,5.4,"[' Business trip ', ' Solo traveler ', ' Single Room ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",5,0,0,1,0,1,11,0,0,1,-0.1582542671023971
+892,2016-11-16,7.9,"[' Leisure trip ', ' Couple ', ' Superior Suite Junior ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,11,0,0,1,-0.26028796607235005
+893,2016-11-17,2.5,"[' Leisure trip ', ' Group ', ' Executive Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",2,1,1,0,0,1,11,0,0,1,-0.464355364012256
+894,2016-11-02,7.9,"[' Business trip ', ' Group ', ' Double or Twin Room ', ' Stayed 3 nights ']",1,0,1,0,0,0,11,0,0,1,-0.566389062982209
+895,2016-11-10,9.2,"[' Business trip ', ' Solo traveler ', ' Deluxe Double Room ', ' Stayed 3 nights ']",11,0,0,1,0,0,11,0,0,1,0.4539479267173208
+896,2016-11-05,8.8,"[' Leisure trip ', ' Couple ', ' Deluxe Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",6,1,0,0,0,1,11,0,0,1,-0.05622056813244411
+897,2015-11-20,7.9,"[' Business trip ', ' Solo traveler ', ' Double or Twin Room 1 Adult ', ' Stayed 1 night ']",1,0,0,1,0,0,11,0,0,1,-0.566389062982209
+898,2016-11-07,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room with View ', ' Stayed 3 nights ']",9,1,0,0,0,0,11,0,0,1,0.24988052877741485
+899,2015-11-21,6.7,"[' Leisure trip ', ' Couple ', ' Double Guest Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,11,0,0,1,-0.566389062982209
+900,2015-11-07,8.8,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,11,0,0,1,-0.1582542671023971
+901,2016-11-01,10.0,"[' Leisure trip ', ' Couple ', ' Classic Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",9,1,0,0,0,1,11,0,0,1,0.24988052877741485
+902,2016-11-06,9.2,"[' Leisure trip ', ' Couple ', ' Standard Queen Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,11,0,0,1,-0.566389062982209
+903,2016-11-26,7.5,"[' Leisure trip ', ' Couple ', ' Small Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,11,0,0,1,-0.566389062982209
+904,2016-11-26,9.6,"[' Leisure trip ', ' Group ', ' 2 rooms ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",6,1,1,0,0,1,11,0,0,1,-0.05622056813244411
+905,2016-11-10,5.4,"[' With a pet ', ' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,11,0,0,1,-0.566389062982209
+906,2016-11-26,7.1,"[' Business trip ', ' Solo traveler ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",7,0,0,1,0,1,11,0,0,1,0.045813130837508875
+907,2015-11-03,8.3,"[' Leisure trip ', ' Group ', ' Double Room with Two Double Beds ', ' Stayed 2 nights ']",6,1,1,0,0,0,11,0,0,1,-0.05622056813244411
+908,2015-11-24,7.5,"[' Leisure trip ', ' Family with older children ', ' Double Family Guest Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,11,0,0,1,-0.566389062982209
+909,2015-11-15,5.0,"[' Leisure trip ', ' Solo traveler ', ' Executive Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",14,1,0,1,0,1,11,0,0,1,0.7600490236271797
+910,2016-11-19,8.8,"[' Business trip ', ' Family with young children ', ' Junior Suite ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",3,0,0,0,1,1,11,0,0,1,-0.36232166504230306
+911,2016-11-29,5.0,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,11,0,0,1,-0.36232166504230306
+912,2016-11-08,9.6,"[' Leisure trip ', ' Solo traveler ', ' Privilege King Room ', ' Stayed 1 night ']",3,1,0,1,0,0,11,0,0,1,-0.36232166504230306
+913,2016-11-08,8.8,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",6,1,0,0,0,1,11,0,0,1,-0.05622056813244411
+914,2015-11-22,9.6,"[' Leisure trip ', ' Group ', ' Classic Double or Twin Room ', ' Stayed 3 nights ']",13,1,1,0,0,0,11,0,0,1,0.6580153246572268
+915,2016-11-23,9.2,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 3 nights ']",4,1,0,0,0,0,11,0,0,1,-0.26028796607235005
+916,2015-11-01,9.6,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,0,0,0,1,11,0,0,1,-0.26028796607235005
+917,2016-11-02,7.5,"[' Leisure trip ', ' Group ', ' Comfort Double or Twin Room with Extra Bed ', ' Stayed 1 night ']",11,1,1,0,0,0,11,0,0,1,0.4539479267173208
+918,2015-11-07,8.3,"[' Leisure trip ', ' Couple ', ' Standard Twin Room ', ' Stayed 1 night ']",2,1,0,0,0,0,11,0,0,1,-0.464355364012256
+919,2016-11-23,8.8,"[' Business trip ', ' Solo traveler ', ' Double Room Audacieuse ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,0,0,1,0,1,11,0,0,1,-0.566389062982209
+920,2015-11-12,9.2,"[' Couple ', ' Classic Double Room ', ' Stayed 1 night ']",7,0,0,0,0,0,11,0,0,1,0.045813130837508875
+921,2015-11-19,7.1,"[' Business trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 3 nights ']",2,0,0,1,0,0,11,0,0,1,-0.464355364012256
+922,2015-11-08,9.6,"[' Business trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 1 night ']",3,0,0,1,0,0,11,0,0,1,-0.36232166504230306
+923,2016-11-09,6.7,"[' Business trip ', ' Solo traveler ', ' Standard Double or Twin Room ', ' Stayed 1 night ']",14,0,0,1,0,0,11,0,0,1,0.7600490236271797
+924,2015-12-06,10.0,"[' Leisure trip ', ' Family with older children ', ' 2 rooms ', ' Stayed 7 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,12,0,0,0,-0.36232166504230306
+925,2015-12-22,7.9,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+926,2016-12-17,2.5,"[' Business trip ', ' Family with young children ', ' Standard Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,0,0,0,1,1,12,0,0,0,-0.566389062982209
+927,2016-12-07,9.2,"[' Leisure trip ', ' Solo traveler ', ' Club Double Room ', ' Stayed 8 nights ']",1,1,0,1,0,0,12,0,0,0,-0.566389062982209
+928,2016-12-09,9.2,"[' Leisure trip ', ' Group ', ' Comfort Double or Twin Room with Extra Bed ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",14,1,1,0,0,1,12,0,0,0,0.7600490236271797
+929,2015-12-14,10.0,"[' Leisure trip ', ' Group ', ' Standard Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,12,0,0,0,-0.566389062982209
+930,2016-12-10,8.3,"[' Leisure trip ', ' Couple ', ' Deluxe Double or Twin Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,12,0,0,0,-0.1582542671023971
+931,2015-12-01,10.0,"[' Leisure trip ', ' Group ', ' Classic Double or Twin Room ', ' Stayed 3 nights ']",1,1,1,0,0,0,12,0,0,0,-0.566389062982209
+932,2016-12-06,7.5,"[' Leisure trip ', ' Couple ', ' Executive Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+933,2015-12-21,10.0,"[' Leisure trip ', ' Group ', ' Superior Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,12,0,0,0,-0.566389062982209
+934,2016-12-13,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",3,1,0,0,0,1,12,0,0,0,-0.36232166504230306
+935,2015-12-11,8.3,"[' Business trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",8,0,0,0,0,1,12,0,0,0,0.14784682980746186
+936,2016-12-14,6.7,"[' Leisure trip ', ' Family with young children ', ' Family Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",4,1,0,0,1,1,12,0,0,0,-0.26028796607235005
+937,2016-12-18,9.6,"[' Leisure trip ', ' Family with young children ', ' Double or Twin Room ', ' Stayed 3 nights ']",49,1,0,0,1,0,12,0,0,0,4.331228487575534
+938,2016-12-29,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",6,1,0,0,0,1,12,0,0,0,-0.05622056813244411
+939,2015-12-03,10.0,"[' Business trip ', ' Couple ', ' Deluxe Room ', ' Stayed 2 nights ']",3,0,0,0,0,0,12,0,0,0,-0.36232166504230306
+940,2015-12-22,7.9,"[' Leisure trip ', ' Group ', ' Triple Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",20,1,1,0,0,1,12,0,0,0,1.3722512174468977
+941,2016-12-09,6.7,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,12,0,0,0,-0.1582542671023971
+942,2016-12-19,9.6,"[' Family with young children ', ' One Bedroom Suite ', ' Stayed 2 nights ']",4,0,0,0,1,0,12,0,0,0,-0.26028796607235005
+943,2015-12-15,10.0,"[' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 4 nights ']",1,1,0,0,0,0,12,0,0,0,-0.566389062982209
+944,2015-12-30,7.5,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+945,2016-12-10,9.2,"[' Business trip ', ' Solo traveler ', ' penta Standard Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",16,0,0,1,0,1,12,0,0,0,0.9641164215670857
+946,2016-12-24,7.5,"[' Business trip ', ' Solo traveler ', ' Deluxe Queen Room ', ' Stayed 6 nights ', ' Submitted from a mobile device ']",25,0,0,1,0,1,12,0,0,0,1.8824197122966624
+947,2016-12-13,8.3,"[' Leisure trip ', ' Couple ', ' Standard Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+948,2015-12-01,7.1,"[' Leisure trip ', ' Couple ', ' Double or Twin Room 1 2 Adults ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",10,1,0,0,0,1,12,0,0,0,0.3519142277473678
+949,2015-12-24,10.0,"[' Leisure trip ', ' Group ', ' Executive Room ', ' Stayed 4 nights ']",3,1,1,0,0,0,12,0,0,0,-0.36232166504230306
+950,2015-12-10,3.8,"[' Leisure trip ', ' Couple ', ' Executive Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",4,1,0,0,0,1,12,0,0,0,-0.26028796607235005
+951,2015-12-17,5.4,"[' Leisure trip ', ' Family with young children ', ' Double or Twin Room 1 2 Adults ', ' Stayed 3 nights ']",3,1,0,0,1,0,12,0,0,0,-0.36232166504230306
+952,2016-12-10,8.8,"[' Business trip ', ' Solo traveler ', ' Standard Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,0,0,1,0,1,12,0,0,0,-0.464355364012256
+953,2016-12-01,4.2,"[' Leisure trip ', ' Couple ', ' Deluxe Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+954,2016-12-07,7.5,"[' Leisure trip ', ' Couple ', ' Superior Twin Room ', ' Stayed 2 nights ']",33,1,0,0,0,0,12,0,0,0,2.6986893040562863
+955,2016-12-11,8.3,"[' Leisure trip ', ' Family with young children ', ' Standard Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,1,1,12,0,0,0,-0.566389062982209
+956,2016-12-19,6.3,"[' Business trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 3 nights ']",1,0,0,1,0,0,12,0,0,0,-0.566389062982209
+957,2015-12-29,9.6,"[' Leisure trip ', ' Solo traveler ', ' Standard Double Room ', ' Stayed 3 nights ']",1,1,0,1,0,0,12,0,0,0,-0.566389062982209
+958,2015-12-23,9.2,"[' Leisure trip ', ' Family with older children ', ' 2 rooms ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,1,0,0,0,1,12,0,0,0,-0.05622056813244411
+959,2015-12-22,7.9,"[' Leisure trip ', ' Couple ', ' Standard Double or Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+960,2015-12-01,9.6,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 2 nights ']",8,1,0,0,0,0,12,0,0,0,0.14784682980746186
+961,2016-12-14,8.8,"[' Leisure trip ', ' Family with young children ', ' Superior Queen Room with 2 Single Sofa Beds ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,0,1,1,12,0,0,0,-0.464355364012256
+962,2016-12-01,7.1,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 2 nights ']",19,1,0,0,0,0,12,0,0,0,1.2702175184769446
+963,2016-12-12,10.0,"[' Leisure trip ', ' Family with young children ', ' Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",2,1,0,0,1,1,12,0,0,0,-0.464355364012256
+964,2015-12-22,7.5,"[' Leisure trip ', ' Family with older children ', ' Superior Queen Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,12,0,0,0,-0.1582542671023971
+965,2015-12-20,7.5,"[' Business trip ', ' Solo traveler ', ' Double or Twin Room ', ' Stayed 3 nights ']",9,0,0,1,0,0,12,0,0,0,0.24988052877741485
+966,2015-12-05,9.6,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 2 nights ']",2,1,0,0,0,0,12,0,0,0,-0.464355364012256
+967,2015-12-01,7.9,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 1 night ']",1,1,0,0,0,0,12,0,0,0,-0.566389062982209
+968,2016-12-09,10.0,"[' Leisure trip ', ' Solo traveler ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",8,1,0,1,0,1,12,0,0,0,0.14784682980746186
+969,2016-12-29,9.2,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+970,2016-12-12,7.9,"[' Leisure trip ', ' Group ', ' Deluxe King Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",14,1,1,0,0,1,12,0,0,0,0.7600490236271797
+971,2016-12-17,7.1,"[' Leisure trip ', ' Solo traveler ', ' Single Room ', ' Stayed 1 night ']",6,1,0,1,0,0,12,0,0,0,-0.05622056813244411
+972,2016-12-23,8.8,"[' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",6,1,0,0,0,1,12,0,0,0,-0.05622056813244411
+973,2015-12-09,6.3,"[' Leisure trip ', ' Group ', ' One Bedroom Park Suite ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",9,1,1,0,0,1,12,0,0,0,0.24988052877741485
+974,2016-12-24,8.3,"[' Leisure trip ', ' Family with young children ', ' Standard Twin Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",33,1,0,0,1,1,12,0,0,0,2.6986893040562863
+975,2015-12-27,9.6,"[' Couple ', ' Queen Guest Room ', ' Stayed 1 night ']",3,0,0,0,0,0,12,0,0,0,-0.36232166504230306
+976,2015-12-20,9.6,"[' Leisure trip ', ' Couple ', ' Superior Double ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+977,2016-12-12,9.2,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,12,0,0,0,-0.464355364012256
+978,2015-12-25,10.0,"[' Leisure trip ', ' Group ', ' Superior Double Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",12,1,1,0,0,1,12,0,0,0,0.5559816256872738
+979,2016-12-12,7.5,"[' Leisure trip ', ' Couple ', ' Deluxe Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",7,1,0,0,0,1,12,0,0,0,0.045813130837508875
+980,2016-12-05,8.3,"[' Leisure trip ', ' Group ', ' Standard Double Room No Window ', ' Stayed 1 night ']",16,1,1,0,0,0,12,0,0,0,0.9641164215670857
+981,2016-12-12,3.8,"[' Leisure trip ', ' Couple ', ' Classic Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",2,1,0,0,0,1,12,0,0,0,-0.464355364012256
+982,2016-12-11,7.5,"[' Leisure trip ', ' Couple ', ' Queen Room ', ' Stayed 1 night ']",1,1,0,0,0,0,12,0,0,0,-0.566389062982209
+983,2015-12-28,10.0,"[' Leisure trip ', ' Solo traveler ', ' Basic Double Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",1,1,0,1,0,1,12,0,0,0,-0.566389062982209
+984,2015-12-23,9.6,"[' Leisure trip ', ' Couple ', ' Dorsett Double Room ', ' Stayed 1 night ']",34,1,0,0,0,0,12,0,0,0,2.8007230030262393
+985,2015-12-17,9.2,"[' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 5 nights ', ' Submitted from a mobile device ']",17,1,0,0,0,1,12,0,0,0,1.0661501205370387
+986,2015-12-02,7.5,"[' Leisure trip ', ' Solo traveler ', ' Superior Twin Room ', ' Stayed 5 nights ']",12,1,0,1,0,0,12,0,0,0,0.5559816256872738
+987,2015-12-23,6.7,"[' Business trip ', ' Solo traveler ', ' Double Room ', ' Stayed 3 nights ']",4,0,0,1,0,0,12,0,0,0,-0.26028796607235005
+988,2016-12-14,10.0,"[' Leisure trip ', ' Couple ', ' Queen Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,12,0,0,0,-0.1582542671023971
+989,2015-12-08,4.6,"[' Leisure trip ', ' Group ', ' Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,1,0,0,1,12,0,0,0,-0.566389062982209
+990,2016-12-22,8.8,"[' Business trip ', ' Couple ', ' Standard Twin Room ', ' Stayed 1 night ']",1,0,0,0,0,0,12,0,0,0,-0.566389062982209
+991,2015-12-15,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+992,2016-12-07,10.0,"[' Leisure trip ', ' Couple ', ' Queen Room ', ' Stayed 2 nights ']",1,1,0,0,0,0,12,0,0,0,-0.566389062982209
+993,2016-12-25,9.2,"[' Leisure trip ', ' Solo traveler ', ' Standard Queen Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']",2,1,0,1,0,1,12,0,0,0,-0.464355364012256
+994,2016-12-12,7.5,"[' Leisure trip ', ' Family with young children ', ' Superior Queen Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",4,1,0,0,1,1,12,0,0,0,-0.26028796607235005
+995,2015-12-20,10.0,"[' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+996,2016-12-05,10.0,"[' Leisure trip ', ' Group ', ' Family Room with Two Double Beds ', ' Stayed 2 nights ']",1,1,1,0,0,0,12,0,0,0,-0.566389062982209
+997,2016-12-05,8.8,"[' Business trip ', ' Group ', ' Deluxe Twin Room ', ' Stayed 4 nights ', ' Submitted from a mobile device ']",2,0,1,0,0,1,12,0,0,0,-0.464355364012256
+998,2015-12-17,10.0,"[' Leisure trip ', ' Couple ', ' Double or Twin Room 1 2 Adults ', ' Stayed 2 nights ']",1,1,0,0,0,0,12,0,0,0,-0.566389062982209
+999,2015-12-15,9.2,"[' Leisure trip ', ' Couple ', ' Queen Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']",1,1,0,0,0,1,12,0,0,0,-0.566389062982209
+1000,2015-12-08,9.6,"[' Leisure trip ', ' Couple ', ' Superior Double or Twin Room ', ' Stayed 3 nights ', ' Submitted from a mobile device ']",5,1,0,0,0,1,12,0,0,0,-0.1582542671023971

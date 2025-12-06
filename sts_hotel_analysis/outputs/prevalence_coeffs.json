@@ -1,0 +1,142 @@
+{
+  "Topic_1": {
+    "params": {
+      "intercept": 0.3224268576723793,
+      "Reviewer_Score_z": -0.12542451778034702,
+      "days_since_z": 0.03630185265790966,
+      "reviewer_activity_z": -0.05033230891191048,
+      "trip_Leisure_trip": -0.0934561183840153,
+      "trip_Business_trip": -0.08137541524380737,
+      "trip_Solo_traveler": -0.10150581142545648,
+      "trip_Family_with_young_children": -0.08323746315999214,
+      "trip_Group": -0.18733900395637432,
+      "trip_Travelers_with_friends": -0.2856924888765629,
+      "trip_With_a_pet": -0.38888047747279814
+    },
+    "se": {
+      "intercept": 0.2488125761080628,
+      "Reviewer_Score_z": 0.03685037658951081,
+      "days_since_z": 0.036347998937882,
+      "reviewer_activity_z": 0.034927874465350374,
+      "trip_Leisure_trip": 0.2550577637626312,
+      "trip_Business_trip": 0.278695961011512,
+      "trip_Solo_traveler": 0.11912273953781188,
+      "trip_Family_with_young_children": 0.12747253395511565,
+      "trip_Group": 0.11065403705230266,
+      "trip_Travelers_with_friends": 0.35093051209357956,
+      "trip_With_a_pet": 0.35092160832496816
+    }
+  },
+  "Topic_2": {
+    "params": {
+      "intercept": 0.6829120726108214,
+      "Reviewer_Score_z": 0.14200589249614756,
+      "days_since_z": -0.03803475023292988,
+      "reviewer_activity_z": 0.05568460349063237,
+      "trip_Leisure_trip": 0.06148270664020311,
+      "trip_Business_trip": 0.0745094077262457,
+      "trip_Solo_traveler": 0.09519571649018325,
+      "trip_Family_with_young_children": 0.08460706835919782,
+      "trip_Group": 0.12172917534071964,
+      "trip_Travelers_with_friends": 0.29607842462745637,
+      "trip_With_a_pet": 0.4181803943098492
+    },
+    "se": {
+      "intercept": 0.2508433133509486,
+      "Reviewer_Score_z": 0.03715113884729229,
+      "days_since_z": 0.036644660932633716,
+      "reviewer_activity_z": 0.03521294580941629,
+      "trip_Leisure_trip": 0.25713947244497287,
+      "trip_Business_trip": 0.28097059791419865,
+      "trip_Solo_traveler": 0.12009498534402452,
+      "trip_Family_with_young_children": 0.12851292840059278,
+      "trip_Group": 0.11155716372553073,
+      "trip_Travelers_with_friends": 0.353794706788722,
+      "trip_With_a_pet": 0.3537857303500921
+    }
+  },
+  "Topic_3": {
+    "params": {
+      "intercept": -0.01864032631450265,
+      "Reviewer_Score_z": -0.018054583980428997,
+      "days_since_z": 0.0009722024686340873,
+      "reviewer_activity_z": -0.004308170116112716,
+      "trip_Leisure_trip": 0.031228594042494562,
+      "trip_Business_trip": 0.0009419775434963817,
+      "trip_Solo_traveler": 0.006660108744546325,
+      "trip_Family_with_young_children": -0.004970437203334872,
+      "trip_Group": 0.062252976936260675,
+      "trip_Travelers_with_friends": -0.01579570302246173,
+      "trip_With_a_pet": -0.02543915984050578
+    },
+    "se": {
+      "intercept": 0.06637826995021899,
+      "Reviewer_Score_z": 0.00983095100451602,
+      "days_since_z": 0.009696926591850114,
+      "reviewer_activity_z": 0.009318065494573119,
+      "trip_Leisure_trip": 0.06804436239019547,
+      "trip_Business_trip": 0.07435056548758741,
+      "trip_Solo_traveler": 0.0317795888211708,
+      "trip_Family_with_young_children": 0.03400714868381981,
+      "trip_Group": 0.02952030663976259,
+      "trip_Travelers_with_friends": 0.09362131380127359,
+      "trip_With_a_pet": 0.09361893845206212
+    }
+  },
+  "Topic_4": {
+    "params": {
+      "intercept": 0.006651612373380768,
+      "Reviewer_Score_z": 0.0007372327062689206,
+      "days_since_z": 0.0003799908897956697,
+      "reviewer_activity_z": -0.0005225024796689682,
+      "trip_Leisure_trip": 0.00037209698297701677,
+      "trip_Business_trip": 0.002963615060087502,
+      "trip_Solo_traveler": -0.0001759146812168119,
+      "trip_Family_with_young_children": 0.001799845016253409,
+      "trip_Group": 0.0016795313600145758,
+      "trip_Travelers_with_friends": 0.0027088971840848546,
+      "trip_With_a_pet": -0.001930167027803392
+    },
+    "se": {
+      "intercept": 0.0028424986589312244,
+      "Reviewer_Score_z": 0.00042098814969586553,
+      "days_since_z": 0.00041524885860628764,
+      "reviewer_activity_z": 0.00039902499254682706,
+      "trip_Leisure_trip": 0.002913845283810726,
+      "trip_Business_trip": 0.00318389410943887,
+      "trip_Solo_traveler": 0.0013608887166434158,
+      "trip_Family_with_young_children": 0.0014562789087502219,
+      "trip_Group": 0.0012641400882803038,
+      "trip_Travelers_with_friends": 0.004009120140176559,
+      "trip_With_a_pet": 0.004009018421241235
+    }
+  },
+  "Topic_5": {
+    "params": {
+      "intercept": 0.006649783657921689,
+      "Reviewer_Score_z": 0.0007359765583594053,
+      "days_since_z": 0.0003807042165905298,
+      "reviewer_activity_z": -0.0005216219829402672,
+      "trip_Leisure_trip": 0.0003727207183403025,
+      "trip_Business_trip": 0.002960414913977581,
+      "trip_Solo_traveler": -0.00017409912805650902,
+      "trip_Family_with_young_children": 0.0018009869878758003,
+      "trip_Group": 0.0016773203193793198,
+      "trip_Travelers_with_friends": 0.00270087008748278,
+      "trip_With_a_pet": -0.0019305899687419932
+    },
+    "se": {
+      "intercept": 0.0028427901860520834,
+      "Reviewer_Score_z": 0.00042103132630838953,
+      "days_since_z": 0.0004152914465961919,
+      "reviewer_activity_z": 0.0003990659166144119,
+      "trip_Leisure_trip": 0.0029141441282529387,
+      "trip_Business_trip": 0.0031842206501321887,
+      "trip_Solo_traveler": 0.0013610282896096603,
+      "trip_Family_with_young_children": 0.001456428264949952,
+      "trip_Group": 0.001264269738691621,
+      "trip_Travelers_with_friends": 0.004009531316184672,
+      "trip_With_a_pet": 0.004009429586817037
+    }
+  }
+}

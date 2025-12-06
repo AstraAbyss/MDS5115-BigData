@@ -1,0 +1,44 @@
+[
+  {
+    "topic": 1,
+    "baseline": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "low_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "high_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"]
+  },
+  {
+    "topic": 2,
+    "baseline": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "low_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "high_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"]
+  },
+  {
+    "topic": 3,
+    "baseline": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "low_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "high_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"]
+  },
+  {
+    "topic": 4,
+    "baseline": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "low_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "high_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"]
+  },
+  {
+    "topic": 5,
+    "baseline": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "low_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "high_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"]
+  },
+  {
+    "topic": 6,
+    "baseline": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "low_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "high_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"]
+  },
+  {
+    "topic": 7,
+    "baseline": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "low_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"],
+    "high_alpha_s": ["abl", "absolut", "accept", "access", "accommod", "actual", "addit", "afternoon", "age", "air", "airport", "allow", "almost", "also", "although"]
+  }
+]

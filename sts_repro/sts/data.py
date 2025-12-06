@@ -36,7 +36,7 @@ def build_vocabulary(docs: List[str], max_vocab: int = 5000, min_df: int = 5) ->
             if w not in seen:
                 df[w] = df.get(w, 0) + 1
                 seen.add(w)
-    # filter by doc freq
+    # 根据min_df(最小词频)过滤
     filtered = [w for w, d in df.items() if d >= min_df]
     # sort by frequency
     filtered.sort(key=lambda w: freq.get(w, 0), reverse=True)

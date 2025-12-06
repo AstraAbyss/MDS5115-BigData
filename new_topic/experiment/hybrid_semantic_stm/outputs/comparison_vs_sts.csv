@@ -1,0 +1,14 @@
+dimension,topic_ref,var,sign_agree,significance_pattern,notes
+prevalence,STS_1 -> BERT_2,reviewer_score,no,NA,match_score=nan
+prevalence,STS_2 -> BERT_5,reviewer_score,no,NA,match_score=nan
+prevalence,STS_3 -> BERT_7,reviewer_score,no,NA,match_score=nan
+prevalence,STS_4 -> BERT_3,reviewer_score,no,NA,match_score=nan
+prevalence,STS_5 -> BERT_1,reviewer_score,no,NA,match_score=nan
+prevalence,STS_6 -> BERT_0,reviewer_score,yes,NA,match_score=nan
+sentiment,STS_1 -> BERT_2,rating_vs_topic_prob,partial,NA,match_score=nan; comparison uses direction only
+sentiment,STS_2 -> BERT_5,rating_vs_topic_prob,diff,NA,match_score=nan; comparison uses direction only
+sentiment,STS_3 -> BERT_7,rating_vs_topic_prob,diff,NA,match_score=nan; comparison uses direction only
+sentiment,STS_4 -> BERT_3,rating_vs_topic_prob,diff,NA,match_score=nan; comparison uses direction only
+sentiment,STS_5 -> BERT_1,rating_vs_topic_prob,partial,NA,match_score=nan; comparison uses direction only
+sentiment,STS_6 -> BERT_0,rating_vs_topic_prob,partial,NA,match_score=nan; comparison uses direction only
+sentiment,STS_7 -> BERT_12,rating_vs_topic_prob,partial,NA,match_score=nan; comparison uses direction only

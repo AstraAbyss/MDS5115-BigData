@@ -1,0 +1,72 @@
+{
+  "Topic_1": [
+    "room",
+    "hotel",
+    "day",
+    "bed",
+    "floor",
+    "booked",
+    "nice",
+    "new",
+    "would",
+    "made",
+    "looked",
+    "dirty"
+  ],
+  "Topic_2": [
+    "room",
+    "hotel",
+    "staff",
+    "park",
+    "good",
+    "location",
+    "great",
+    "bed",
+    "breakfast",
+    "restaurant",
+    "building",
+    "really"
+  ],
+  "Topic_3": [
+    "morning",
+    "good",
+    "awful",
+    "asked",
+    "mistake",
+    "take",
+    "service",
+    "even",
+    "part",
+    "room",
+    "hotel",
+    "website"
+  ],
+  "Topic_4": [
+    "room",
+    "staff",
+    "breakfast",
+    "restaurant",
+    "friendly",
+    "area",
+    "building",
+    "told",
+    "fantastic",
+    "hotel",
+    "good",
+    "gentleman"
+  ],
+  "Topic_5": [
+    "work",
+    "room",
+    "hotel",
+    "building",
+    "checkout",
+    "park",
+    "also",
+    "someone",
+    "great",
+    "coming",
+    "friendly",
+    "even"
+  ]
+}

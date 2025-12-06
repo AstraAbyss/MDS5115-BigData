@@ -1,0 +1,1 @@
+{"method":"1:1 nearest neighbor matching","caliper":0.1,"n_treated":121,"n_control":578,"matched_pairs":119,"ATT":-0.32521008403361334,"CI_95_lower":-0.73592251015184,"CI_95_upper":0.08550234208461327}

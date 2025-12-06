@@ -1,0 +1,576 @@
+[
+  {
+    "topic": 1,
+    "coefficients": [
+      {
+        "term": "Intercept",
+        "estimate": 1.1965,
+        "std_error": 4.3915,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Reviewer_Score_z",
+        "estimate": 4.7194,
+        "std_error": 0.6323,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "days_since_review_num",
+        "estimate": 0.0015,
+        "std_error": 0.0061,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Total_Reviews_z",
+        "estimate": 1.3616,
+        "std_error": 0.489,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Leisure",
+        "estimate": -3.3905,
+        "std_error": 4.3259,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Business",
+        "estimate": -9.5011,
+        "std_error": 4.7659,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Solo",
+        "estimate": 11.5767,
+        "std_error": 1.8165,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Family",
+        "estimate": 2.8722,
+        "std_error": 1.7786,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Group",
+        "estimate": 2.1649,
+        "std_error": 1.7698,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Friends",
+        "estimate": 1.1068,
+        "std_error": 5.0701,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Pet",
+        "estimate": 9.9707,
+        "std_error": 5.6664,
+        "z_value": {},
+        "p_value": {}
+      }
+    ]
+  },
+  {
+    "topic": 2,
+    "coefficients": [
+      {
+        "term": "Intercept",
+        "estimate": 2.6955,
+        "std_error": 4.2051,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Reviewer_Score_z",
+        "estimate": 2.5816,
+        "std_error": 0.5667,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "days_since_review_num",
+        "estimate": -0.0024,
+        "std_error": 0.0058,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Total_Reviews_z",
+        "estimate": 0.7806,
+        "std_error": 0.656,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Leisure",
+        "estimate": -1.5187,
+        "std_error": 4.4743,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Business",
+        "estimate": 2.4029,
+        "std_error": 5.3724,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Solo",
+        "estimate": -0.4807,
+        "std_error": 2.0222,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Family",
+        "estimate": 0.8336,
+        "std_error": 2.1873,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Group",
+        "estimate": -11.2781,
+        "std_error": 1.8709,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Friends",
+        "estimate": 2.9546,
+        "std_error": 5.9434,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Pet",
+        "estimate": 0.8796,
+        "std_error": 6.127,
+        "z_value": {},
+        "p_value": {}
+      }
+    ]
+  },
+  {
+    "topic": 3,
+    "coefficients": [
+      {
+        "term": "Intercept",
+        "estimate": -14.0905,
+        "std_error": 4.7935,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Reviewer_Score_z",
+        "estimate": 4.1514,
+        "std_error": 0.8404,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "days_since_review_num",
+        "estimate": 0.0131,
+        "std_error": 0.0075,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Total_Reviews_z",
+        "estimate": 0.0875,
+        "std_error": 0.5902,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Leisure",
+        "estimate": 9.7198,
+        "std_error": 4.6429,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Business",
+        "estimate": 11.434,
+        "std_error": 4.8906,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Solo",
+        "estimate": -3.2747,
+        "std_error": 2.3435,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Family",
+        "estimate": 3.6686,
+        "std_error": 2.3861,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Group",
+        "estimate": 7.0141,
+        "std_error": 2.1084,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Friends",
+        "estimate": 1.0244,
+        "std_error": 7.144,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Pet",
+        "estimate": 1.021,
+        "std_error": 6.5855,
+        "z_value": {},
+        "p_value": {}
+      }
+    ]
+  },
+  {
+    "topic": 4,
+    "coefficients": [
+      {
+        "term": "Intercept",
+        "estimate": 1.0221,
+        "std_error": 6.8946,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Reviewer_Score_z",
+        "estimate": 7.5409,
+        "std_error": 1.143,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "days_since_review_num",
+        "estimate": 0.0013,
+        "std_error": 0.0117,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Total_Reviews_z",
+        "estimate": -0.4357,
+        "std_error": 0.9539,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Leisure",
+        "estimate": -1.9146,
+        "std_error": 7.0536,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Business",
+        "estimate": -2.7969,
+        "std_error": 7.9533,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Solo",
+        "estimate": -1.8392,
+        "std_error": 3.3936,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Family",
+        "estimate": 0.8721,
+        "std_error": 3.5742,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Group",
+        "estimate": 4.3691,
+        "std_error": 3.1972,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Friends",
+        "estimate": -1.0846,
+        "std_error": 10.5915,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Pet",
+        "estimate": 0.0024,
+        "std_error": 9.3521,
+        "z_value": {},
+        "p_value": {}
+      }
+    ]
+  },
+  {
+    "topic": 5,
+    "coefficients": [
+      {
+        "term": "Intercept",
+        "estimate": 7.3044,
+        "std_error": 6.3801,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Reviewer_Score_z",
+        "estimate": 5.5105,
+        "std_error": 0.9461,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "days_since_review_num",
+        "estimate": -0.0245,
+        "std_error": 0.0101,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Total_Reviews_z",
+        "estimate": -1.1984,
+        "std_error": 0.8713,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Leisure",
+        "estimate": -3.9866,
+        "std_error": 6.4275,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Business",
+        "estimate": 3.0342,
+        "std_error": 6.8166,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Solo",
+        "estimate": 0.4478,
+        "std_error": 2.8493,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Family",
+        "estimate": 0.2569,
+        "std_error": 3.494,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Group",
+        "estimate": -2.9768,
+        "std_error": 2.9442,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Friends",
+        "estimate": -0.496,
+        "std_error": 8.8512,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Pet",
+        "estimate": 1.1069,
+        "std_error": 9.5123,
+        "z_value": {},
+        "p_value": {}
+      }
+    ]
+  },
+  {
+    "topic": 6,
+    "coefficients": [
+      {
+        "term": "Intercept",
+        "estimate": 2.2735,
+        "std_error": 5.5813,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Reviewer_Score_z",
+        "estimate": 3.5966,
+        "std_error": 0.7747,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "days_since_review_num",
+        "estimate": -0.0196,
+        "std_error": 0.0073,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Total_Reviews_z",
+        "estimate": -0.1216,
+        "std_error": 0.6811,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Leisure",
+        "estimate": 1.3694,
+        "std_error": 5.6132,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Business",
+        "estimate": -2.1249,
+        "std_error": 6.6001,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Solo",
+        "estimate": 0.7182,
+        "std_error": 2.2775,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Family",
+        "estimate": -1.5491,
+        "std_error": 2.7828,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Group",
+        "estimate": -0.6026,
+        "std_error": 2.1314,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Friends",
+        "estimate": -0.5609,
+        "std_error": 7.7533,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Pet",
+        "estimate": 0.5123,
+        "std_error": 7.1354,
+        "z_value": {},
+        "p_value": {}
+      }
+    ]
+  },
+  {
+    "topic": 7,
+    "coefficients": [
+      {
+        "term": "Intercept",
+        "estimate": -0.3266,
+        "std_error": 2.4192,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Reviewer_Score_z",
+        "estimate": 0.3218,
+        "std_error": 0.3704,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "days_since_review_num",
+        "estimate": -0.0014,
+        "std_error": 0.0035,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Total_Reviews_z",
+        "estimate": 0.3478,
+        "std_error": 0.3458,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Leisure",
+        "estimate": 0.3977,
+        "std_error": 2.5059,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Business",
+        "estimate": 0.8173,
+        "std_error": 2.863,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Solo",
+        "estimate": -0.247,
+        "std_error": 1.3144,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Family",
+        "estimate": 0.2598,
+        "std_error": 1.1998,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Group",
+        "estimate": -0.3038,
+        "std_error": 1.1141,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Friends",
+        "estimate": -0.2899,
+        "std_error": 4.036,
+        "z_value": {},
+        "p_value": {}
+      },
+      {
+        "term": "Trip_Pet",
+        "estimate": -0.8614,
+        "std_error": 3.9024,
+        "z_value": {},
+        "p_value": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "grid": [
+    {
+      "K": 5,
+      "heldout_loglik": -4.8949,
+      "semantic_coherence_avg": -95.783
+    },
+    {
+      "K": 6,
+      "heldout_loglik": -4.9013,
+      "semantic_coherence_avg": -88.9788
+    },
+    {
+      "K": 7,
+      "heldout_loglik": -4.8777,
+      "semantic_coherence_avg": -90.1743
+    }
+  ],
+  "selection": {
+    "bestK": 7,
+    "reason": "综合 held-out LL 与平均 topic coherence 归一化得分最高，且语义可解释性良好"
+  }
+}

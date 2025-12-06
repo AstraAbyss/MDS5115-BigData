@@ -1,0 +1,21 @@
+Topic 1 Avg sentiment-discourse: room, good, hotel, pos, neg, locat, staff, bed, park, breakfast, build, great 
+ Topic 2 Avg sentiment-discourse: room, hotel, neg, pos, locat, staff, bed, park, breakfast, good, build, great 
+ Topic 3 Avg sentiment-discourse: room, hotel, neg, pos, locat, staff, bed, park, breakfast, good, build, great 
+ Topic 4 Avg sentiment-discourse: room, hotel, pos, neg, locat, staff, bed, park, breakfast, build, great, nice 
+ Topic 5 Avg sentiment-discourse: room, hotel, neg, pos, locat, staff, bed, park, breakfast, good, build, great 
+ Topic 6 Avg sentiment-discourse: room, get, hotel, neg, pos, locat, staff, bed, park, breakfast, good, build 
+ Topic 7 Avg sentiment-discourse: room, hotel, neg, pos, locat, staff, bed, park, good, breakfast, build, great 
+Topic 1 Positive sentiment-discourse: good, room, realli, hotel, neg, pos, locat, staff, bar, bed, park, breakfast 
+ Topic 2 Positive sentiment-discourse: great, room, hotel, neg, pos, good, fantast, locat, staff, near, awesom, bed 
+ Topic 3 Positive sentiment-discourse: room, hotel, neg, pos, locat, staff, bed, park, good, breakfast, build, great 
+ Topic 4 Positive sentiment-discourse: room, neg, pos, hotel, locat, centr, help, restaur, great, look, staff, build 
+ Topic 5 Positive sentiment-discourse: room, neg, pos, hotel, build, direct, great, restaur, locat, staff, help, bed 
+ Topic 6 Positive sentiment-discourse: room, get, hotel, neg, pos, locat, staff, bed, park, can, breakfast, good 
+ Topic 7 Positive sentiment-discourse: room, hotel, neg, pos, locat, staff, bed, park, good, breakfast, build, great 
+Topic 1 Negative sentiment-discourse: room, hotel, good, pos, neg, servic, morn, poor, locat, staff, bed, park 
+ Topic 2 Negative sentiment-discourse: room, hotel, pos, neg, shower, bathroom, star, place, locat, staff, bed, park 
+ Topic 3 Negative sentiment-discourse: room, hotel, neg, pos, dirti, look, locat, staff, floor, bed, park, breakfast 
+ Topic 4 Negative sentiment-discourse: room, hotel, pos, neg, staff, book, park, bed, breakfast, work, can, check 
+ Topic 5 Negative sentiment-discourse: room, hotel, pos, neg, locat, staff, bed, park, good, breakfast, one, manag 
+ Topic 6 Negative sentiment-discourse: room, hotel, neg, pos, get, locat, staff, bed, park, look, good, breakfast 
+ Topic 7 Negative sentiment-discourse: room, experi, hotel, neg, pos, locat, staff, bed, park, good, breakfast, build 

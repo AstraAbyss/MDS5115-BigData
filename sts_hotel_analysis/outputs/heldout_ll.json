@@ -1,0 +1,30 @@
+{
+  "grid": [
+    {
+      "K": 7,
+      "held_ll": -5.616,
+      "coherence": -35.0498,
+      "held_ll_z": 0.838,
+      "coherence_z": 1.0562,
+      "score": 1.8942
+    },
+    {
+      "K": 5,
+      "held_ll": -5.6202,
+      "coherence": -39.3941,
+      "held_ll_z": 0.269,
+      "coherence_z": -0.9322,
+      "score": -0.6632
+    },
+    {
+      "K": 6,
+      "held_ll": -5.6302,
+      "coherence": -37.6285,
+      "held_ll_z": -1.107,
+      "coherence_z": -0.1241,
+      "score": -1.2311
+    }
+  ],
+  "selected_K": 7,
+  "reason": "Selected K=7 for highest combined standardized score (heldout LL + coherence), with heldout_ll=-5.616 and mean_coherence=-35.050."
+}

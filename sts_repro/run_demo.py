@@ -71,7 +71,8 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     docs = load_yelp_reviews(n_docs=400)
     texts = [d.text for d in docs]
-    vocab = build_vocabulary(texts, max_vocab=2000, min_df=5)
+    # vocab = build_vocabulary(texts, max_vocab=2000, min_df=5)
+    vocab = build_vocabulary(texts, max_vocab=500, min_df=2)
     dtm = vectorize_corpus(docs, vocab)
     X, cov_keys = to_matrix(docs)
     # K topics
@@ -85,13 +86,21 @@ def main():
     A_opt, Phis = runner.run(dtm, X)
     # Visualizations
     # Average beta per topic using A_opt median a_s
-    a_s_med = np.median(A_opt[:, K:(2*K)], axis=0)
+    a_s_med = np.median(A_opt[:, K:(2 * K)], axis=0)
     beta_mat = np.zeros((K, len(vocab)))
     for k in range(K):
         beta_mat[k] = model.beta_topic(k, a_s_med[k])
-    top_words_path = plot_top_words(OUTPUT_DIR, vocab, beta_mat, title='STS 主题-词分布（中位情感水平）')
-    senti_path = plot_prevalence_sentiment(OUTPUT_DIR, A_opt, X, K, label='Yelp 演示')
+    top_words_path = plot_top_words(OUTPUT_DIR, vocab, beta_mat, title='STS', picname='demo')
+    senti_path = plot_prevalence_sentiment(
+        output_dir=OUTPUT_DIR,
+        A_opt=A_opt,
+        covs=X,
+        K=K,
+        picname='demo',
+        label='Yelp Presentation'
+    )
     print('Artifacts saved:', top_words_path, senti_path)
+
 
 if __name__ == '__main__':
     main()
